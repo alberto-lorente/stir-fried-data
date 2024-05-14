@@ -1,0 +1,1 @@
+{'error': '400 Client Error: Bad Request for url: https://dbpedia.org/sparql?query=%0A++++SELECT+DISTINCT+%3Fsubject+%3Fpredicate+%3Fobject%0A++++WHERE+%7B%0A++++++++%3Fsubject+dbo%3AwikiPageWikiLink+dbr%3AShin%27ichir%C5%8D_Tomonaga+.%0A++++++++%3Fsubject+%3Fpredicate+%3Fobject+.%0A++++%7D%0A++++LIMIT+100%0A++++&format=json'}

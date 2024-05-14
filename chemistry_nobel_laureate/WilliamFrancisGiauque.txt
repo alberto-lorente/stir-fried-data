@@ -1,0 +1,42 @@
+year: 1949
+name: William Francis Giauque
+country: United States
+category: Chemistry
+biography: William Francis Giauque (; May 12, 1895 – March 28, 1982) was a Canadian-born American chemist and Nobel laureate recognized in 1949 for his studies in the properties of matter at temperatures close to absolute zero.  He spent virtually all of his educational and professional career at the University of California, Berkeley.
+
+
+== Biography ==
+William Francis Giauque was born in Niagara Falls, Ontario, on May 12, 1895.
+His father, William Tecumseh Giauque, was an American citizen, and so William Francis Giauque was conferred American citizenship despite being born in Canada, allowing him to attend public grammar schools in Michigan. In 1908, his father died, and he returned to Canada for his secondary education. After completing a two-year business course at the Niagara Falls Collegiate Institute, he searched for work in the field of electrical engineering, and eventually found employment at the Hooker Electrochemical Company in Niagara Falls, New York. He decided to become a chemical engineer through his experience there.
+After two years of employment, he entered the College of Chemistry of the University of California, Berkeley, where he received a Bachelor of Science degree with honors in 1920.  He entered graduate school at Berkeley, becoming a University Fellow (1920–1921) and a James M. Goewey Fellow (1921–1922). He received the Ph.D. degree in chemistry with a minor in physics in 1922. 
+Giauque was elected a member of the United States National Academy of Sciences in 1936, a member of the American Philosophical Society in 1940, and the American Academy of Arts and Sciences in 1950.
+
+
+=== Research ===
+Although he began university study with an interest in becoming an engineer, he soon developed an interest in research under the influence of Professor Gilbert N. Lewis. Due to his outstanding performance as a student, he became an instructor of chemistry at Berkeley in 1922 and after passing through various grades of professorship, he became a full professor of chemistry in 1934. He retired in 1962.
+
+
+=== Absolute zero ===
+He became interested in the third law of thermodynamics as a field of research during his experimental research for his Ph.D. research under Professor George Ernest Gibson comparing the relative entropies of glycerine crystals and glass.
+The principal objective of his researches was to demonstrate through range of appropriate tests that the third law of thermodynamics is a basic natural law. In 1926, he proposed a method for observing temperatures considerably below 1 Kelvin (1 K is −457.87 °F or −272.15 °C). His work with D.P. MacDougall between 1933 and 1935 successfully employed them.
+He developed a magnetic refrigeration device of his own design in order to achieve this outcome, getting closer to absolute zero than many scientists had thought possible. This trailblazing work, apart from proving one of the fundamental laws of nature led to stronger steel, better gasoline and more efficient processes in a range of industries.
+His research and that of his students included a large number of entropy determinations from low temperature measurements, particularly on condensed gases. The entropies and other thermodynamic properties of many gases were also determined from quantum statistics and molecular energy levels available from band spectra as well as other sources.
+His correlated investigations of the entropy of oxygen with Herrick L. Johnston, led to the discovery of oxygen isotopes 17 and 18 in the Earth's atmosphere and showed that physicists and chemists had been using different scales of atomic weight for years without recognising it.
+
+
+=== Personal life ===
+In 1932, Giauque married Dr. Muriel Frances Ashley and they had two sons. He died on March 28, 1982, in Berkeley, California.
+
+
+== Notes ==
+
+
+== References ==
+Shampo, Marc A; Kyle, Robert A; Steensma, David P (2006). "Stamp vignette on medical science. William F. Giauque—Nobel Prize for low-temperature research". Mayo Clin. Proc. Vol. 81, no. 5 (published May 2006). p. 587. doi:10.4065/81.5.587. PMID 16706253.
+
+
+== External links ==
+National Academy of Sciences biography
+William Giauque on Nobelprize.org  including the Nobel Lecture on December 12, 1949 Some Consequences of Low Temperature Research in Chemical Thermodynamics
+Contributions in the field of chemical thermodynamics, particularly concerning the behaviour of substances at extremely low temperatures at the Wayback Machine (archived March 11, 2007).
+M. A. Shampo; R. A. Kyle; D. P. Steensma (2006). "William F. Giauque—Nobel Prize for Low-Temperature Research". Mayo Clinic Proceedings. 81 (5): 587. doi:10.4065/81.5.587. PMID 16706253.
