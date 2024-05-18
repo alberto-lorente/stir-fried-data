@@ -2,7 +2,7 @@ year: 1915
 name: Richard Martin Willstätter
 country: Germany
 category: Chemistry
-biography: Richard Martin Willstätter FRS(For) HFRSE (German pronunciation: [ˈʁɪçaʁt ˈvɪlˌʃtɛtɐ] , 13 August 1872 – 3 August 1942) was a German organic chemist whose study of the structure of plant pigments, chlorophyll included, won him the 1915 Nobel Prize for Chemistry. Willstätter invented paper chromatography following the initial description of the separation technique by Mikhail Tsvet.
+biography: Richard Martin Willstätter FRS(For) HFRSE (German pronunciation: [ˈʁɪçaʁt ˈvɪlˌʃtɛtɐ] , 13 August 1872 – 3 August 1942) was a German organic chemist whose study of the structure of plant pigments, chlorophyll included, won him the 1915 Nobel Prize for Chemistry.
 
 
 == Life ==
