@@ -2,7 +2,7 @@ year: 1968
 name: Lars Onsager
 country: United States  Norway
 category: Chemistry
-biography: Lars Onsager (November 27, 1903 – October 5, 1976) was an American physical chemist and  theoretical physicist.  He held the Gibbs Professorship of Theoretical Chemistry at Yale University. He was awarded the Nobel Prize in Chemistry in 1968.
+biography: Lars Onsager (November 27, 1903 – October 5, 1976) was a Norwegian American physical chemist and  theoretical physicist.  He held the Gibbs Professorship of Theoretical Chemistry at Yale University. He was awarded the Nobel Prize in Chemistry in 1968.
 
 
 == Education and early life ==

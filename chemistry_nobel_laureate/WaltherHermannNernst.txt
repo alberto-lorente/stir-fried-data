@@ -15,7 +15,7 @@ Nernst was born in Briesen in West Prussia (now Wąbrzeźno, Poland) to Gustav N
 
 === Studies ===
 
-Nernst started undergraduate studies at the University of Zürich in 1883, then after an interlude in Berlin, he returned to Zürich. He wrote his thesis at University of Graz, where Ludwig Boltzmann was professor, though he worked under the direction of Albert von Ettinghausen. They discovered the Ettingshausen and Nernst effects: that a magnetic field applied perpendicular to a metallic conductor in a temperature gradient gives rise to an electrical potential difference, reciprocally, a electric potential difference produces a thermal gradient. Next, he moved to the University of Würzburg under Friedrich Kohlrausch where he submitted and defended his thesis.
+Nernst started undergraduate studies at the University of Zürich in 1883, then after an interlude in Berlin, he returned to Zürich. He wrote his thesis at University of Graz, where Ludwig Boltzmann was professor, though he worked under the direction of Albert von Ettinghausen. They discovered the Ettingshausen and Nernst effects: that a magnetic field applied perpendicular to a metallic conductor in a temperature gradient gives rise to an electrical potential difference, reciprocally, an electric potential difference produces a thermal gradient. Next, he moved to the University of Würzburg under Friedrich Kohlrausch where he submitted and defended his thesis.
 
 
 === Professional career ===
