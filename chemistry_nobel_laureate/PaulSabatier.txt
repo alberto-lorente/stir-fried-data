@@ -20,7 +20,7 @@ Sabatier's earliest research concerned the thermochemistry of sulfur and metalli
 
 
 === Sabatier reaction ===
-Sabatier is best known for the Sabatier process and his works such as La Catalyse en Chimie Organique (Catalysis in organic chemistry) which was published in 1913. He won the Nobel Prize in Chemistry jointly with fellow Frenchman Victor Grignard in 1912. He is also known for the Sabatier principle of catalysis.
+Sabatier is best known for the Sabatier process and his works such as La Catalyse en Chimie Organique (Catalysis in organic chemistry) which was published in 1913. He won the Nobel Prize in Chemistry jointly with fellow Frenchman Victor Grignard in 1912. 
 The reduction of carbon dioxide using hydrogen at high temperature and pressure is another use of nickel catalyst to produce methane.
 
   
@@ -135,6 +135,10 @@ The reduction of carbon dioxide using hydrogen at high temperature and pressure 
 
 ∆H = −165.0 kJ/mol
 (some initial energy/heat is required to start the reaction)
+
+
+=== Sabatier principle ===
+He is also known for the Sabatier principle of catalysis.
 
 
 == Personal life ==

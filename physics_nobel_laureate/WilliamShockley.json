@@ -1,1 +1,238 @@
+<<<<<<< HEAD
 [{"subject": {"type": "uri", "value": "http://dbpedia.org/resource/California_Institute_of_Technology"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.w3.org/2002/07/owl#Thing"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/California_Institute_of_Technology"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://schema.org/CollegeOrUniversity"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/California_Institute_of_Technology"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://schema.org/EducationalOrganization"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/California_Institute_of_Technology"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://schema.org/Organization"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/California_Institute_of_Technology"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/California_Institute_of_Technology"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#SocialPerson"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/California_Institute_of_Technology"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/Agent"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/California_Institute_of_Technology"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.wikidata.org/entity/Q2385804"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/California_Institute_of_Technology"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.wikidata.org/entity/Q24229398"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/California_Institute_of_Technology"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.wikidata.org/entity/Q3918"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/California_Institute_of_Technology"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.wikidata.org/entity/Q43229"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/California_Institute_of_Technology"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/EducationalInstitution"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/California_Institute_of_Technology"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatUniversitiesAndCollegesInLosAngelesCounty,California"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/California_Institute_of_Technology"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/California_Institute_of_Technology"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatSchoolsAccreditedByTheWesternAssociationOfSchoolsAndColleges"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/California_Institute_of_Technology"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Abstraction100002137"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/California_Institute_of_Technology"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/EducationalInstitution108276342"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/California_Institute_of_Technology"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Group100031264"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/California_Institute_of_Technology"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Institution108053576"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/California_Institute_of_Technology"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Organization108008335"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/California_Institute_of_Technology"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/YagoLegalActor"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/California_Institute_of_Technology"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/YagoLegalActorGeo"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/California_Institute_of_Technology"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/California_Institute_of_Technology"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/Organisation"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/California_Institute_of_Technology"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/University"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/California_Institute_of_Technology"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/School108276720"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/California_Institute_of_Technology"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/SocialGroup107950920"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/California_Institute_of_Technology"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/University108286569"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/California_Institute_of_Technology"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatEducationalInstitutionsEstablishedIn1891"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/California_Institute_of_Technology"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatEngineeringUniversitiesAndCollegesInCalifornia"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/California_Institute_of_Technology"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatPrivateUniversitiesAndCollegesInTheUnitedStates"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/California_Institute_of_Technology"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatTechnicalUniversitiesAndColleges"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/California_Institute_of_Technology"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://umbel.org/umbel/rc/EducationalOrganization"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/California_Institute_of_Technology"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://umbel.org/umbel/rc/Organization"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/California_Institute_of_Technology"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://umbel.org/umbel/rc/University"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Amplifier"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.w3.org/2002/07/owl#Thing"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Amplifier"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Amplifier102705944"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Amplifier"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Artifact100021939"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Amplifier"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/ElectronicEquipment103278248"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Amplifier"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Equipment103294048"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Amplifier"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Instrumentality103575240"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Amplifier"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Object100002684"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Amplifier"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/PhysicalEntity100001930"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Amplifier"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/Device"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Amplifier"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/PersonFunction"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Amplifier"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Whole100003553"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Amplifier"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatElectronicAmplifiers"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Power_electronics"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.w3.org/2002/07/owl#Thing"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Power_electronics"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/Software"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Power_electronics"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/MusicGenre"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Progressive_Labor_Party_(United_States)"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.w3.org/2002/07/owl#Thing"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Progressive_Labor_Party_(United_States)"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://schema.org/Organization"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Progressive_Labor_Party_(United_States)"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Progressive_Labor_Party_(United_States)"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#SocialPerson"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Progressive_Labor_Party_(United_States)"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/Agent"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Progressive_Labor_Party_(United_States)"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.wikidata.org/entity/Q24229398"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Progressive_Labor_Party_(United_States)"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.wikidata.org/entity/Q43229"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Progressive_Labor_Party_(United_States)"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.wikidata.org/entity/Q7278"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Progressive_Labor_Party_(United_States)"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatAnti-RevisionistOrganizations"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Progressive_Labor_Party_(United_States)"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatCommunistParties"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Progressive_Labor_Party_(United_States)"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatCommunistPartiesInTheUnitedStates"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Progressive_Labor_Party_(United_States)"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatLabourParties"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Progressive_Labor_Party_(United_States)"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatMaoistOrganizationsInTheUnitedStates"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Progressive_Labor_Party_(United_States)"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatTransnationalPoliticalParties"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Progressive_Labor_Party_(United_States)"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Abstraction100002137"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Progressive_Labor_Party_(United_States)"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Group100031264"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Progressive_Labor_Party_(United_States)"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Organization108008335"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Progressive_Labor_Party_(United_States)"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Party108256968"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Progressive_Labor_Party_(United_States)"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/YagoLegalActor"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Progressive_Labor_Party_(United_States)"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/YagoLegalActorGeo"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Progressive_Labor_Party_(United_States)"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Progressive_Labor_Party_(United_States)"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/Organisation"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Progressive_Labor_Party_(United_States)"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/PoliticalParty"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Progressive_Labor_Party_(United_States)"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/SocialGroup107950920"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Progressive_Labor_Party_(United_States)"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatPoliticalPartiesEstablishedIn1961"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_N._Hall"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.w3.org/2002/07/owl#Thing"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_N._Hall"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://xmlns.com/foaf/0.1/Person"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_N._Hall"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/Person"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_N._Hall"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_N._Hall"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.wikidata.org/entity/Q19088"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_N._Hall"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.wikidata.org/entity/Q215627"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_N._Hall"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.wikidata.org/entity/Q5"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_N._Hall"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.wikidata.org/entity/Q729"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_N._Hall"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatAmericanEngineers"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_N._Hall"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatAmericanPeople"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_N._Hall"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/Animal"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_N._Hall"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/Eukaryote"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_N._Hall"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/Scientist"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_N._Hall"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/Species"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_N._Hall"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://schema.org/Person"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_N._Hall"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatLaserResearchers"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_N._Hall"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatLivingPeople"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_N._Hall"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.wikidata.org/entity/Q901"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_N._Hall"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/CausalAgent100007347"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_N._Hall"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Engineer109615807"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_N._Hall"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/LivingThing100004258"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_N._Hall"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Object100002684"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_N._Hall"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Organism100004475"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_N._Hall"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Person100007846"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_N._Hall"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/PhysicalEntity100001930"}}]
+=======
+[
+    {
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "William Shockley"
+    },
+    {
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "William Bradford Shockley Jr. (February 13, 1910 \u2013 August 12, 1989) was an American physicist and inventor. He was the manager of a research group at Bell Labs that included John Bardeen and Walter Brattain. The three scientists were jointly awarded the 1956 Nobel Prize in Physics for \"their researches on semiconductors and their discovery of the transistor effect\". Partly as a result of Shockley's attempts to commercialize a new transistor design in the 1950s and 1960s, California's Silicon Valley became a hotbed of electronics innovation."
+    },
+    {
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "William Shockley"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "William Shockley"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "Stanford, California, US"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "London, England, UK"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/workInstitution",
+        "object": "Bell Labs"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/workInstitution",
+        "object": "Columbia University"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/workInstitution",
+        "object": ""
+    },
+    {
+        "predicate": "http://dbpedia.org/property/workInstitution",
+        "object": "Shockley Semiconductor"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/almaMater",
+        "object": "Caltech"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/almaMater",
+        "object": "MIT"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/almaMater",
+        "object": ""
+    },
+    {
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "William Bradford Shockley"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": ""
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "BARITT diode"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Channel length modulation"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Deathnium"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Deep-level trap"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Diffused-base transistor"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Empty lattice approximation"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Haynes\u2013Shockley experiment"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Heterojunction bipolar transistor"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Ion implantation"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Low-level injection"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Process variation"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Shockley diode"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Shockley diode equation"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Shockley states"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Shockley\u2013Queisser limit"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Shockley\u2013Ramo theorem"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Through-silicon via"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Thyristor"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Transmission line measurement"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "BJT theory"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "FET theory"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Gradual channel approximation"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Hot electron theory"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Junction theory"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Lucky electron model"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Point-contact transistor and GJT"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Read\u2013Shockley equation"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Shockley partials"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Shockley\u2013James paradox"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Shockley\u2013Read\u2013Hall recombination"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Van Roosbroeck\u2013Shockley equation]]"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/nationality",
+        "object": "American"
+    },
+    {
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "William Bradford Shockley Jr. (February 13, 1910 \u2013 August 12, 1989) was an American physicist and inventor. He was the manager of a research group at Bell Labs that included John Bardeen and Walter Brattain. The three scientists were jointly awarded the 1956 Nobel Prize in Physics for \"their researches on semiconductors and their discovery of the transistor effect\". Partly as a result of Shockley's attempts to commercialize a new transistor design in the 1950s and 1960s, California's Silicon Valley became a hotbed of electronics innovation. In his later life, while a professor of electrical engineering at Stanford University and afterward, Shockley became widely known for his racist views and advocacy of eugenics."
+    },
+    {
+        "predicate": "http://dbpedia.org/property/prizes",
+        "object": "Nobel Prize in Physics"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/prizes",
+        "object": ""
+    },
+    {
+        "predicate": "http://dbpedia.org/property/prizes",
+        "object": "Oliver E. Buckley Condensed Matter Prize"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/prizes",
+        "object": "IEEE Medal of Honor"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/prizes",
+        "object": "Medal for Merit"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/prizes",
+        "object": "Comstock Prize in Physics"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/prizes",
+        "object": "Wilhelm Exner Medal"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/prizes",
+        "object": "Holley Medal"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/prizes",
+        "object": "Morris Liebmann Memorial Prize"
+    },
+    {
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "William Bradford Shockley"
+    }
+]
+>>>>>>> d36f05a (Adds files named after each section)

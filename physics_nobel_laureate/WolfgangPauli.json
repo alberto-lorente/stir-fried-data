@@ -1,1 +1,226 @@
+<<<<<<< HEAD
 [{"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.w3.org/2002/07/owl#Thing"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://xmlns.com/foaf/0.1/Person"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/Person"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.wikidata.org/entity/Q19088"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.wikidata.org/entity/Q215627"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.wikidata.org/entity/Q5"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.wikidata.org/entity/Q729"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/Animal"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/Eukaryote"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/Scientist"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/Species"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatChristianMystics"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatContemporaryPhilosophers"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://schema.org/Person"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatMedicalWriters"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatMystics"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatWorldWarIISpies"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatPeopleAssociatedWithTheUniversityOfZurich"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatPeopleFromArbonDistrict"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatPeopleFromK\u00fcsnacht"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatPeopleFromRapperswil-Jona"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.wikidata.org/entity/Q901"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Adult109605289"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Agent109777353"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Analyst109790278"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Artist109812338"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Astrologer109817816"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Autobiographer109825296"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Believer109847727"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Biographer109855433"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Biologist109855630"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/CausalAgent100007347"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Communicator109610660"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Creator109614315"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Doctor110020890"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Forecaster110102506"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/HealthProfessional110165109"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Illustrator109812068"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Intellectual109621545"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/LivingThing100004258"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/MedicalPractitioner110305802"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Mystic110343554"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Negotiator110351874"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Object100002684"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Organism100004475"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Person100007846"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Philosopher110423589"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/PhysicalEntity100001930"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Physiologist110429965"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Professional110480253"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Psychiatrist110488016"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Psychologist110488865"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/ReligiousPerson109628382"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Representative110522035"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatJungianPsychologists"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Writer110794014"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/YagoLegalActor"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/YagoLegalActorGeo"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Scholar110557854"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Scientist110560637"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/SecretAgent110569411"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Specialist110632576"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Spy110641755"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Visionary110756433"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Whole100003553"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Wikicat20th-centuryPhilosophers"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Wikicat20th-centuryPhysicians"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Wikicat20th-centurySwissWriters"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Wikicat20th-centuryWriters"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatPsychiatrists"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatPsychoanalysts"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatPsychologists"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatPsychologistsOfReligion"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatPsychologyWriters"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatSwissAstrologers"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatSwissAutobiographers"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatSwissIllustrators"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatSwissPeople"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatSwissPhilosophers"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatSwissPhysicians"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatSwissPhysiologists"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatSwissPsychiatrists"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatSwissPsychoanalysts"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatSwissPsychologists"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://umbel.org/umbel/rc/PersonWithOccupation"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Carl_Jung"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://umbel.org/umbel/rc/Scientist"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Propagator"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.w3.org/2002/07/owl#Thing"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Quantum_electrodynamics"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.w3.org/2002/07/owl#Thing"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Quantum_electrodynamics"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/Work"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Quantum_field_theory"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.w3.org/2002/07/owl#Thing"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Quark_model"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.w3.org/2002/07/owl#Thing"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Quark_model"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatSubatomicParticles"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Quark_model"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Body109224911"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Quark_model"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/ElementaryParticle109272085"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Quark_model"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Hadron109300674"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Quark_model"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/NaturalObject100019128"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Quark_model"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Object100002684"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Quark_model"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Particle109386422"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Quark_model"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/PhysicalEntity100001930"}}]
+=======
+[
+    {
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Wolfgang Pauli"
+    },
+    {
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Wolfgang Ernst Pauli (/\u02c8p\u0254\u02d0li/; German: [\u02c8v\u0254lf\u0261a\u014b \u02c8pa\u028ali]; 25 April 1900 \u2013 15 December 1958) was an Austrian theoretical physicist and one of the pioneers of quantum physics. In 1945, after having been nominated by Albert Einstein, Pauli received the Nobel Prize in Physics for his \"decisive contribution through his discovery of a new law of Nature, the exclusion principle or Pauli principle\". The discovery involved spin theory, which is the basis of a theory of the structure of matter."
+    },
+    {
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Wolfgang Ernst Pauli"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Wolfgang Ernst Pauli"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "Zurich, Switzerland"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/thesisTitle",
+        "object": "About the Hydrogen Molecular Ion Model"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/workplaces",
+        "object": "ETH Zurich"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/workplaces",
+        "object": "Institute for Advanced Study"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/workplaces",
+        "object": "University of Copenhagen"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/workplaces",
+        "object": "University of Hamburg"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/signature",
+        "object": "Solvay1933Signature Pauli.jpg"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/awards",
+        "object": "Matteucci Medal"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/awards",
+        "object": "Nobel Prize in Physics"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/awards",
+        "object": ""
+    },
+    {
+        "predicate": "http://dbpedia.org/property/awards",
+        "object": "ForMemRS"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/awards",
+        "object": "Max Planck Medal"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/awards",
+        "object": "Lorentz Medal"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Wolfgang Ernst Pauli"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Pauli in 1945"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/footnotes",
+        "object": "His godfather was Ernst Mach. He is not to be confused with Wolfgang Paul, who called Pauli his \"imaginary part\", a pun with the imaginary unit i."
+    },
+    {
+        "predicate": "http://dbpedia.org/property/influenced",
+        "object": "Werner Heisenberg"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/influenced",
+        "object": ""
+    },
+    {
+        "predicate": "http://dbpedia.org/property/influenced",
+        "object": "Ralph Kronig"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/influenced",
+        "object": "Dr. Jung"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/influences",
+        "object": ""
+    },
+    {
+        "predicate": "http://dbpedia.org/property/influences",
+        "object": "Carl Gustav Jung"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/influences",
+        "object": "Ernst Mach"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/influences",
+        "object": "Hu Shih"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Pauli exclusion principle"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": ""
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Aufbau principle"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "CPT symmetry"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Massive gravity"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Neutrino"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Pauli effect"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Pauli equation"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Pauli group"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Pauli matrices"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Pauli paramagnetism"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Pauli repulsion"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Pauli\u2013Lubanski pseudovector"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Pauli\u2013Villars regularization"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Coining 'not even wrong'"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Fierz\u2013Pauli\u2013Kofink identities"
+    },
+    {
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Wolfgang Ernst Pauli (/\u02c8p\u0254\u02d0li/; German: [\u02c8v\u0254lf\u0261a\u014b \u02c8pa\u028ali]; 25 April 1900 \u2013 15 December 1958) was an Austrian theoretical physicist and one of the pioneers of quantum physics. In 1945, after having been nominated by Albert Einstein, Pauli received the Nobel Prize in Physics for his \"decisive contribution through his discovery of a new law of Nature, the exclusion principle or Pauli principle\". The discovery involved spin theory, which is the basis of a theory of the structure of matter."
+    },
+    {
+        "predicate": "http://dbpedia.org/property/doctoralStudents",
+        "object": ""
+    },
+    {
+        "predicate": "http://dbpedia.org/property/doctoralStudents",
+        "object": "Felix Villars"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/doctoralStudents",
+        "object": "Charles Enz"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/doctoralStudents",
+        "object": "Jos\u00e9 Leite Lopes"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/doctoralStudents",
+        "object": "Nicholas Kemmer"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/notableStudents",
+        "object": ""
+    },
+    {
+        "predicate": "http://dbpedia.org/property/notableStudents",
+        "object": "Hans Frauenfelder"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/notableStudents",
+        "object": "Sigurd Zienau"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/notableStudents",
+        "object": "Markus Fierz"
+    },
+    {
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Wolfgang Ernst Pauli"
+    }
+]
+>>>>>>> d36f05a (Adds files named after each section)

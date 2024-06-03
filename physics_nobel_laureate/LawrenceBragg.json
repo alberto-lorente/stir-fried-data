@@ -1,1 +1,170 @@
+<<<<<<< HEAD
 [{"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cambridge_Philosophical_Society"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.w3.org/2002/07/owl#Thing"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cambridge_Philosophical_Society"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://schema.org/Organization"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cambridge_Philosophical_Society"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cambridge_Philosophical_Society"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#SocialPerson"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cambridge_Philosophical_Society"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/Agent"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cambridge_Philosophical_Society"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.wikidata.org/entity/Q24229398"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cambridge_Philosophical_Society"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.wikidata.org/entity/Q43229"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cambridge_Philosophical_Society"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatLearnedSocietiesOfTheUnitedKingdom"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cambridge_Philosophical_Society"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatScientificSocieties"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cambridge_Philosophical_Society"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Abstraction100002137"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cambridge_Philosophical_Society"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Group100031264"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cambridge_Philosophical_Society"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/Organisation"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cambridge_Philosophical_Society"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/SocialGroup107950920"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cambridge_Philosophical_Society"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Society107966140"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cambridge_Philosophical_Society"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatPhilosophicalSocietiesInTheUnitedKingdom"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Queen's_College,_North_Adelaide"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/One_Two_Three..._Infinity"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.w3.org/2002/07/owl#Thing"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/One_Two_Three..._Infinity"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://purl.org/ontology/bibo/Book"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/One_Two_Three..._Infinity"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://schema.org/Book"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/One_Two_Three..._Infinity"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://schema.org/CreativeWork"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/One_Two_Three..._Infinity"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/Work"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/One_Two_Three..._Infinity"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.wikidata.org/entity/Q234460"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/One_Two_Three..._Infinity"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.wikidata.org/entity/Q386724"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/One_Two_Three..._Infinity"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.wikidata.org/entity/Q571"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/One_Two_Three..._Infinity"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatScienceBooks"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/One_Two_Three..._Infinity"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Artifact100021939"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/One_Two_Three..._Infinity"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Book106410904"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/One_Two_Three..._Infinity"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Creation103129123"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/One_Two_Three..._Infinity"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Object100002684"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/One_Two_Three..._Infinity"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/PhysicalEntity100001930"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/One_Two_Three..._Infinity"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Product104007894"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/One_Two_Three..._Infinity"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Publication106589574"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/One_Two_Three..._Infinity"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Work104599396"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/One_Two_Three..._Infinity"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/Book"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/One_Two_Three..._Infinity"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/WrittenWork"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/One_Two_Three..._Infinity"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Whole100003553"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/One_Two_Three..._Infinity"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Wikicat1947Books"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Patrick_Blackett"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.w3.org/2002/07/owl#Thing"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Patrick_Blackett"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://xmlns.com/foaf/0.1/Person"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Patrick_Blackett"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/Person"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Patrick_Blackett"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Patrick_Blackett"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.wikidata.org/entity/Q19088"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Patrick_Blackett"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.wikidata.org/entity/Q215627"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Patrick_Blackett"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.wikidata.org/entity/Q5"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Patrick_Blackett"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.wikidata.org/entity/Q729"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Patrick_Blackett"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatBritishNobelLaureates"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Patrick_Blackett"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatBritishOperationsResearchers"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Patrick_Blackett"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatBritishPeople"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Patrick_Blackett"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatBritishPhysicists"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Patrick_Blackett"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/Animal"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Patrick_Blackett"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/Eukaryote"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Patrick_Blackett"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/Scientist"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Patrick_Blackett"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/Species"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Patrick_Blackett"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://schema.org/Person"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Patrick_Blackett"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatLabourParty(UK)LifePeers"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Patrick_Blackett"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatLifePeers"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Patrick_Blackett"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatNobelLaureatesInPhysics"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Patrick_Blackett"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatNuclearPhysicists"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Patrick_Blackett"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatRoyalMedalWinners"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Patrick_Blackett"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.wikidata.org/entity/Q901"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Patrick_Blackett"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Academician109759069"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Patrick_Blackett"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Acquirer109764201"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Patrick_Blackett"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Adult109605289"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Patrick_Blackett"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Agnostic109779124"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Patrick_Blackett"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Alumnus109786338"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Patrick_Blackett"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Aristocrat109807754"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Patrick_Blackett"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Associate109816771"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Patrick_Blackett"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Atheist109820044"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Patrick_Blackett"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/CausalAgent100007347"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Patrick_Blackett"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Colleague109935990"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Patrick_Blackett"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Communicator109610660"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Patrick_Blackett"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Contestant109613191"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Patrick_Blackett"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Disbeliever110015897"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Patrick_Blackett"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Educator110045713"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Patrick_Blackett"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Golfer110136959"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Patrick_Blackett"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/HeadOfState110164747"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Patrick_Blackett"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Honoree110183757"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Patrick_Blackett"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Intellectual109621545"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Patrick_Blackett"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Laureate110249011"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Patrick_Blackett"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Leader109623038"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Patrick_Blackett"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/LifePeer110260943"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Patrick_Blackett"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/LivingThing100004258"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Patrick_Blackett"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/MaleAristocrat110285135"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Patrick_Blackett"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Medalist110304914"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Patrick_Blackett"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Negotiator110351874"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Patrick_Blackett"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Noble110271677"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Patrick_Blackett"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/NonreligiousPerson109625789"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Patrick_Blackett"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/NuclearPhysicist110364643"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Patrick_Blackett"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Object100002684"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Patrick_Blackett"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Organism100004475"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Patrick_Blackett"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Peer109626238"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Patrick_Blackett"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Peer110412910"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Patrick_Blackett"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Person100007846"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Patrick_Blackett"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/PhysicalEntity100001930"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Patrick_Blackett"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Physicist110428004"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Patrick_Blackett"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Player110439851"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Patrick_Blackett"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/President110467179"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Patrick_Blackett"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Professional110480253"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Patrick_Blackett"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Recipient109627906"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Patrick_Blackett"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Representative110522035"}}]
+=======
+[
+    {
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Lawrence Bragg"
+    },
+    {
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Sir William Lawrence Bragg, Kt, CH, OBE, MC, FRS (31 March 1890 \u2013 1 July 1971) was an Australian-born British physicist and X-ray crystallographer, discoverer (1912) of Bragg's law of X-ray diffraction, which is basic for the determination of crystal structure. He was joint recipient (with his father, William Henry Bragg) of the Nobel Prize in Physics in 1915, \"For their services in the analysis of crystal structure by means of X-rays\"; an important step in the development of X-ray crystallography."
+    },
+    {
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Lawrence Bragg"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Lawrence Bragg"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "Waldringfield, Ipswich, Suffolk, England"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Adelaide, South Australia"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/workInstitution",
+        "object": "University of Adelaide"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/workInstitution",
+        "object": "University of Cambridge"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/workInstitution",
+        "object": "University of Manchester"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/workInstitution",
+        "object": ""
+    },
+    {
+        "predicate": "http://dbpedia.org/property/almaMater",
+        "object": "Trinity College, Cambridge"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/almaMater",
+        "object": "University of Adelaide"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/almaMater",
+        "object": ""
+    },
+    {
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "William Lawrence Bragg"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Lawrence Bragg in 1915"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/footnotes",
+        "object": "He was the son of W. H. Bragg. The PhD did not exist at Cambridge until 1919, and so J. J. Thomson and W. H. Bragg were his equivalent mentors."
+    },
+    {
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": "Alice Hopkinson"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/title",
+        "object": "President of the Manchester Literary and Philosophical Society"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/title",
+        "object": "Langworthy Professor at the University of Manchester"
+    },
+    {
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Sir William Lawrence Bragg, Kt, CH, OBE, MC, FRS (31 March 1890 \u2013 1 July 1971) was an Australian-born British physicist and X-ray crystallographer, discoverer (1912) of Bragg's law of X-ray diffraction, which is basic for the determination of crystal structure. He was joint recipient (with his father, William Henry Bragg) of the Nobel Prize in Physics in 1915, \"For their services in the analysis of crystal structure by means of X-rays\"; an important step in the development of X-ray crystallography. Bragg was knighted in 1941. As of 2021, he is the youngest ever Nobel laureate in physics, having received the award at the age of 25 years. Bragg was the director of the Cavendish Laboratory, Cambridge, when the discovery of the structure of DNA was reported by James D. Watson and Francis Crick in February 1953."
+    },
+    {
+        "predicate": "http://dbpedia.org/property/academicAdvisors",
+        "object": ""
+    },
+    {
+        "predicate": "http://dbpedia.org/property/academicAdvisors",
+        "object": "J. J. Thomson"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/academicAdvisors",
+        "object": "W. H. Bragg"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/doctoralStudents",
+        "object": ""
+    },
+    {
+        "predicate": "http://dbpedia.org/property/doctoralStudents",
+        "object": "Evan James Williams"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/doctoralStudents",
+        "object": "Alex Stokes"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/doctoralStudents",
+        "object": "John Crank"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/doctoralStudents",
+        "object": "Ronald Wilfred Gurney"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/doctoralStudents",
+        "object": "Samuel Tolansky"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/prizes",
+        "object": "Copley Medal"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/prizes",
+        "object": "Dalton Medal"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/prizes",
+        "object": "Matteucci Medal"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/prizes",
+        "object": "Nobel Prize in Physics"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/prizes",
+        "object": ""
+    },
+    {
+        "predicate": "http://dbpedia.org/property/prizes",
+        "object": "Fellow of the Royal Society"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/prizes",
+        "object": "Foreign Associate of the National Academy of Sciences"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/prizes",
+        "object": "Barnard Medal"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/prizes",
+        "object": "Hughes Medal"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/prizes",
+        "object": "Royal Medal"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/prizes",
+        "object": "Roebling Medal"
+    },
+    {
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "William Lawrence Bragg"
+    }
+]
+>>>>>>> d36f05a (Adds files named after each section)

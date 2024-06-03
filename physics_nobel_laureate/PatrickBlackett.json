@@ -1,1 +1,178 @@
+<<<<<<< HEAD
 [{"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cambridge_University_Press"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.w3.org/2002/07/owl#Thing"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cambridge_University_Press"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/Company"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cambridge_University_Press"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/Publisher"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cambridge_University_Press"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://schema.org/Organization"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cambridge_University_Press"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cambridge_University_Press"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#SocialPerson"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cambridge_University_Press"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/Agent"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cambridge_University_Press"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.wikidata.org/entity/Q24229398"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cambridge_University_Press"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.wikidata.org/entity/Q43229"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cambridge_University_Press"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.wikidata.org/entity/Q4830453"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cambridge_University_Press"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatCompaniesBasedInCambridge"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cambridge_University_Press"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatCompaniesEstablishedIn1534"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cambridge_University_Press"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cambridge_University_Press"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatOrganisationsAssociatedWithTheUniversityOfCambridge"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cambridge_University_Press"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Abstraction100002137"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cambridge_University_Press"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Business108061042"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cambridge_University_Press"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Company108058098"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cambridge_University_Press"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Enterprise108056231"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cambridge_University_Press"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Firm108059870"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cambridge_University_Press"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Group100031264"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cambridge_University_Press"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Institution108053576"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cambridge_University_Press"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Organization108008335"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cambridge_University_Press"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Publisher108062623"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cambridge_University_Press"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/YagoLegalActor"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cambridge_University_Press"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/YagoLegalActorGeo"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cambridge_University_Press"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cambridge_University_Press"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/Organisation"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cambridge_University_Press"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/SocialGroup107950920"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cambridge_University_Press"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatPublishingCompaniesOfTheUnitedKingdom"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cambridge_University_Press"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://umbel.org/umbel/rc/Business"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Watson-Watt"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.w3.org/2002/07/owl#Thing"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Watson-Watt"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://xmlns.com/foaf/0.1/Person"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Watson-Watt"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/Person"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Watson-Watt"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Watson-Watt"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.wikidata.org/entity/Q19088"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Watson-Watt"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.wikidata.org/entity/Q215627"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Watson-Watt"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.wikidata.org/entity/Q5"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Watson-Watt"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.wikidata.org/entity/Q729"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Watson-Watt"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatBritishElectricalEngineers"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Watson-Watt"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatBritishElectronicsEngineers"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Watson-Watt"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatBritishEngineers"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Watson-Watt"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatBritishInventors"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Watson-Watt"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatBritishPeople"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Watson-Watt"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/Animal"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Watson-Watt"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/Eukaryote"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Watson-Watt"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/Scientist"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Watson-Watt"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/Species"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Watson-Watt"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://schema.org/Person"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Watson-Watt"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatPeopleAssociatedWithElectricity"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Watson-Watt"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatPeopleEducatedAtBrechinHighSchool"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Watson-Watt"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatPeopleFromBrechin"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Watson-Watt"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatPeopleFromLondon"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Watson-Watt"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatScottishEngineers"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Watson-Watt"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatScottishInventors"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Watson-Watt"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatScottishPeople"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Watson-Watt"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatScottishScientists"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Watson-Watt"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.wikidata.org/entity/Q901"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Watson-Watt"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Academician109759069"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Watson-Watt"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Adult109605289"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Watson-Watt"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Alumnus109786338"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Watson-Watt"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Associate109816771"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Watson-Watt"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/CausalAgent100007347"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Watson-Watt"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Colleague109935990"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Watson-Watt"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Communicator109610660"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Watson-Watt"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Creator109614315"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Watson-Watt"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Educator110045713"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Watson-Watt"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/ElectricalEngineer110049017"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Watson-Watt"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Engineer109615807"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Watson-Watt"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/HeadOfState110164747"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Watson-Watt"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Intellectual109621545"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Watson-Watt"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Inventor110214637"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Watson-Watt"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/LivingThing100004258"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Watson-Watt"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Negotiator110351874"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Watson-Watt"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Object100002684"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Watson-Watt"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Organism100004475"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Watson-Watt"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Originator110383816"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Watson-Watt"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Peer109626238"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Watson-Watt"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Person100007846"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Watson-Watt"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/PhysicalEntity100001930"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Watson-Watt"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Physicist110428004"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Watson-Watt"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Pioneer110434725"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Watson-Watt"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/President110467179"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Watson-Watt"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Professional110480253"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Watson-Watt"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Representative110522035"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Watson-Watt"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/YagoLegalActor"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Watson-Watt"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/YagoLegalActorGeo"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Watson-Watt"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Scholar110557854"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Watson-Watt"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Scientist110560637"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Watson-Watt"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Whole100003553"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Watson-Watt"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Wikicat20th-centuryPhysicists"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Watson-Watt"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatAcademicsOfTheUniversityOfDundee"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Watson-Watt"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatAlumniOfTheUniversityOfDundee"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Watson-Watt"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatElectronicsEngineers"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Watson-Watt"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatFellowsOfTheRoyalAeronauticalSociety"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Watson-Watt"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatFellowsOfTheRoyalSociety"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Watson-Watt"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatPresidentsOfTheRoyalMeteorologicalSociety"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Watson-Watt"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatRadarPioneers"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Royal_Naval_College,_Osborne"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.w3.org/2002/07/owl#Thing"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Royal_Naval_College,_Osborne"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://schema.org/Organization"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Royal_Naval_College,_Osborne"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent"}}]
+=======
+[
+    {
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Patrick Blackett"
+    },
+    {
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Patrick Maynard Stuart Blackett, Baron Blackett OM CH FRS (18 November 1897 \u2013 13 July 1974) was a British experimental physicist known for his work on cloud chambers, cosmic rays, and paleomagnetism, winning the Nobel Prize for Physics in 1948. In 1925 he became the first person to prove that radioactivity could cause the nuclear transmutation of one chemical element to another. He also made a major contribution in World War II advising on military strategy and developing operational research. His left-wing views saw an outlet in third world development and in influencing policy in the Labour Government of the 1960s."
+    },
+    {
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "The Lord Blackett"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "The Lord Blackett"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "London, England"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "London, England"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/sopt",
+        "object": "w"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/workplaces",
+        "object": "Birkbeck, University of London"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/workplaces",
+        "object": "Imperial College London"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/workplaces",
+        "object": "King's College, Cambridge"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/workplaces",
+        "object": "University of Manchester"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/workplaces",
+        "object": ""
+    },
+    {
+        "predicate": "http://dbpedia.org/property/signature",
+        "object": "Solvay1933Signature Blackett.jpg"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/almaMater",
+        "object": "University of Cambridge"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/almaMater",
+        "object": ""
+    },
+    {
+        "predicate": "http://dbpedia.org/property/almaMater",
+        "object": "Osborne Naval College"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Patrick Maynard Stuart Blackett"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/bot",
+        "object": "InternetArchiveBot"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Patrick Blackett, ca. 1950"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/date",
+        "object": "January 2021"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/fixAttempted",
+        "object": "yes"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Cosmic rays"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Paleomagnetism"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": ""
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Cloud chambers"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": ""
+    },
+    {
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": "Constanza Bayon"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/title",
+        "object": "Langworthy Professor at the University of Manchester"
+    },
+    {
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Patrick Maynard Stuart Blackett, Baron Blackett OM CH FRS (18 November 1897 \u2013 13 July 1974) was a British experimental physicist known for his work on cloud chambers, cosmic rays, and paleomagnetism, winning the Nobel Prize for Physics in 1948. In 1925 he became the first person to prove that radioactivity could cause the nuclear transmutation of one chemical element to another. He also made a major contribution in World War II advising on military strategy and developing operational research. His left-wing views saw an outlet in third world development and in influencing policy in the Labour Government of the 1960s."
+    },
+    {
+        "predicate": "http://dbpedia.org/property/doctoralStudents",
+        "object": ""
+    },
+    {
+        "predicate": "http://dbpedia.org/property/doctoralStudents",
+        "object": "Bibha Chowdhuri"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/doctoralStudents",
+        "object": "Edward Bullard"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/doctoralStudents",
+        "object": "Keith Runcorn"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/doctoralStudents",
+        "object": "Roberto Salmeron"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/notableStudents",
+        "object": "J. Robert Oppenheimer"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/notableStudents",
+        "object": ""
+    },
+    {
+        "predicate": "http://dbpedia.org/property/notableStudents",
+        "object": "Ishrat Hussain Usmani"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/prizes",
+        "object": "Copley Medal"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/prizes",
+        "object": "Dalton Medal"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/prizes",
+        "object": "Nobel Prize in Physics"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/prizes",
+        "object": ""
+    },
+    {
+        "predicate": "http://dbpedia.org/property/prizes",
+        "object": "Royal Medal"
+    },
+    {
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Patrick Maynard Stuart Blackett"
+    }
+]
+>>>>>>> d36f05a (Adds files named after each section)
