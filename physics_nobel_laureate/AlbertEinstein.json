@@ -1,1 +1,322 @@
-[{"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Caesium"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.w3.org/2002/07/owl#Thing"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Caesium"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#ChemicalObject"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Caesium"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/ChemicalSubstance"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Caesium"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.wikidata.org/entity/Q11173"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Caesium"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/ChemicalCompound"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Caesium"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/MilitaryUnit"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Caf\u00e9_Tortoni"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.w3.org/2002/07/owl#Thing"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Caf\u00e9_Tortoni"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/Place"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Caf\u00e9_Tortoni"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/Location"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Caf\u00e9_Tortoni"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://schema.org/LandmarksOrHistoricalBuildings"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Caf\u00e9_Tortoni"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://schema.org/Place"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Caf\u00e9_Tortoni"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatNationalHistoricMonumentsOfArgentina"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Caf\u00e9_Tortoni"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/ArchitecturalStructure"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Caf\u00e9_Tortoni"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Artifact100021939"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Caf\u00e9_Tortoni"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/GeographicalArea108574314"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Caf\u00e9_Tortoni"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Location100027167"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Caf\u00e9_Tortoni"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Memorial103743902"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Caf\u00e9_Tortoni"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Object100002684"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Caf\u00e9_Tortoni"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/PhysicalEntity100001930"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Caf\u00e9_Tortoni"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Region108630985"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Caf\u00e9_Tortoni"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/YagoGeoEntity"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Caf\u00e9_Tortoni"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/YagoLegalActorGeo"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Caf\u00e9_Tortoni"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Caf\u00e9_Tortoni"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/HistoricPlace"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Caf\u00e9_Tortoni"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Site108651247"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Caf\u00e9_Tortoni"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Structure104341686"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Caf\u00e9_Tortoni"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Tract108673395"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Caf\u00e9_Tortoni"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Whole100003553"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cai_Lun"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.w3.org/2002/07/owl#Thing"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cai_Lun"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://xmlns.com/foaf/0.1/Person"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cai_Lun"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/Person"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cai_Lun"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cai_Lun"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.wikidata.org/entity/Q19088"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cai_Lun"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.wikidata.org/entity/Q215627"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cai_Lun"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.wikidata.org/entity/Q5"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cai_Lun"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.wikidata.org/entity/Q729"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cai_Lun"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatAncientChinesePeople"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cai_Lun"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/Animal"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cai_Lun"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/Eukaryote"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cai_Lun"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/Species"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cai_Lun"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatChineseInventors"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cai_Lun"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatChinesePeople"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cai_Lun"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatChinesePoliticians"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cai_Lun"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://schema.org/Person"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cai_Lun"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Adult109605289"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cai_Lun"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/CausalAgent100007347"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cai_Lun"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Creator109614315"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cai_Lun"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Eunuch110066452"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cai_Lun"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Inventor110214637"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cai_Lun"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Leader109623038"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cai_Lun"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/LivingThing100004258"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cai_Lun"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Male109624168"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cai_Lun"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Man110287213"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cai_Lun"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Object100002684"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cai_Lun"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Organism100004475"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cai_Lun"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Person100007846"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cai_Lun"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/PhysicalEntity100001930"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cai_Lun"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Politician110450303"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cai_Lun"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatHanDynastyEunuchs"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cai_Lun"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/YagoLegalActor"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cai_Lun"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/YagoLegalActorGeo"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cai_Lun"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Whole100003553"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cai_Lun"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Wikicat2nd-centuryChinesePeople"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cai_Lun"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Wikicat2nd-centuryPeople"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cai_Lun"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatEunuchs"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Cai_Lun"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://umbel.org/umbel/rc/PersonWithOccupation"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Calculus"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.w3.org/2002/07/owl#Thing"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Calculus"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/Book"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Calcutta_Mathematical_Society"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.w3.org/2002/07/owl#Thing"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Calcutta_Mathematical_Society"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://schema.org/Organization"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Calcutta_Mathematical_Society"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Calcutta_Mathematical_Society"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#SocialPerson"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Calcutta_Mathematical_Society"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/Agent"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Calcutta_Mathematical_Society"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.wikidata.org/entity/Q24229398"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Calcutta_Mathematical_Society"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.wikidata.org/entity/Q43229"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Calcutta_Mathematical_Society"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Abstraction100002137"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Calcutta_Mathematical_Society"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Group100031264"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Calcutta_Mathematical_Society"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Organization108008335"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Calcutta_Mathematical_Society"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/YagoLegalActor"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Calcutta_Mathematical_Society"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/YagoLegalActorGeo"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Calcutta_Mathematical_Society"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Calcutta_Mathematical_Society"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/Organisation"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Calcutta_Mathematical_Society"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/SocialGroup107950920"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/California_Institute_of_Technology"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.w3.org/2002/07/owl#Thing"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/California_Institute_of_Technology"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://schema.org/CollegeOrUniversity"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/California_Institute_of_Technology"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://schema.org/EducationalOrganization"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/California_Institute_of_Technology"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://schema.org/Organization"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/California_Institute_of_Technology"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/California_Institute_of_Technology"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#SocialPerson"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/California_Institute_of_Technology"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/Agent"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/California_Institute_of_Technology"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.wikidata.org/entity/Q2385804"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/California_Institute_of_Technology"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.wikidata.org/entity/Q24229398"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/California_Institute_of_Technology"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.wikidata.org/entity/Q3918"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/California_Institute_of_Technology"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.wikidata.org/entity/Q43229"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/California_Institute_of_Technology"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/EducationalInstitution"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/California_Institute_of_Technology"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatUniversitiesAndCollegesInLosAngelesCounty,California"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/California_Institute_of_Technology"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/California_Institute_of_Technology"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatSchoolsAccreditedByTheWesternAssociationOfSchoolsAndColleges"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/California_Institute_of_Technology"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Abstraction100002137"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/California_Institute_of_Technology"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/EducationalInstitution108276342"}}]
+[
+    {
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Albert Einstein"
+    },
+    {
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Albert Einstein (/\u02c8a\u026ansta\u026an/ EYEN-styne; German: [\u02c8alb\u025b\u0281t \u02c8\u0294a\u026an\u0283ta\u026an]; 14 March 1879 \u2013 18 April 1955) was a German-born theoretical physicist, widely acknowledged to be one of the greatest and most influential physicists of all time. Einstein is best known for developing the theory of relativity, but he also made important contributions to the development of the theory of quantum mechanics. Relativity and quantum mechanics are the two pillars of modern physics. His mass\u2013energy equivalence formula E = mc2, which arises from relativity theory, has been dubbed \"the world's most famous equation\". His work is also known for its influence on the philosophy of science. He received the 1921 Nobel Prize in Physics \"for his services to theoretical physics, and especially for his discovery of the "
+    },
+    {
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Albert Einstein"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Albert Einstein"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "Princeton, New Jersey, U.S."
+    },
+    {
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Ulm, Kingdom of W\u00fcrttemberg, German Empire"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/thesisTitle",
+        "object": ""
+    },
+    {
+        "predicate": "http://dbpedia.org/property/workplaces",
+        "object": "Brandeis University"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/workplaces",
+        "object": "California Institute of Technology"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/workplaces",
+        "object": "Charles University in Prague"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/workplaces",
+        "object": "ETH Zurich"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/workplaces",
+        "object": "German Physical Society"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/workplaces",
+        "object": "Humboldt University of Berlin"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/workplaces",
+        "object": "Leiden University"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/workplaces",
+        "object": "University of Bern"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/workplaces",
+        "object": "University of Oxford"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/workplaces",
+        "object": "University of Zurich"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/workplaces",
+        "object": ""
+    },
+    {
+        "predicate": "http://dbpedia.org/property/workplaces",
+        "object": "Institute for Advanced Study, Princeton University"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/workplaces",
+        "object": "Kaiser Wilhelm Institute"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/workplaces",
+        "object": "Prussian Academy of Sciences"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/workplaces",
+        "object": "Swiss Patent Office"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/signature",
+        "object": "Albert Einstein signature 1934.svg"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/awards",
+        "object": "Copley Medal"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/awards",
+        "object": "Matteucci Medal"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/awards",
+        "object": "Nobel Prize in Physics"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/awards",
+        "object": ""
+    },
+    {
+        "predicate": "http://dbpedia.org/property/awards",
+        "object": "Member of the National Academy of Sciences"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/awards",
+        "object": "ForMemRS"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/awards",
+        "object": "Barnard Medal"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/awards",
+        "object": "Gold Medal of the Royal Astronomical Society"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/awards",
+        "object": "Max Planck Medal"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/awards",
+        "object": "Time Person of the Century"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/b",
+        "object": "Introduction to Astrophysics/Albert Einstein"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Einstein in 1921, by Ferdinand Schmutzer"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/children",
+        "object": ""
+    },
+    {
+        "predicate": "http://dbpedia.org/property/citizenship",
+        "object": "Free State of Prussia"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/citizenship",
+        "object": "Switzerland"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/citizenship",
+        "object": "United States"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/citizenship",
+        "object": ""
+    },
+    {
+        "predicate": "http://dbpedia.org/property/citizenship",
+        "object": "Stateless"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/citizenship",
+        "object": "Austria, part of the Austro-Hungarian Empire"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/citizenship",
+        "object": "Kingdom of Prussia, part of the German Empire"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/citizenship",
+        "object": "Kingdom of W\u00fcrttemberg, part of the German Empire"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/date",
+        "object": "November 2022"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/education",
+        "object": "University of Zurich"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/education",
+        "object": ""
+    },
+    {
+        "predicate": "http://dbpedia.org/property/education",
+        "object": "Federal polytechnic school in Zurich"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/fields",
+        "object": "Physics, philosophy"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/group",
+        "object": "note"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/id",
+        "object": "Albert_Einstein"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/influenced",
+        "object": ""
+    },
+    {
+        "predicate": "http://dbpedia.org/property/influenced",
+        "object": "Virtually all modern physicists"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/influences",
+        "object": "Hendrik Lorentz"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/influences",
+        "object": "Hermann Minkowski"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/influences",
+        "object": ""
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Bose\u2013Einstein statistics"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "General relativity"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Special relativity"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": ""
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Bose\u2013Einstein condensate"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Cosmological constant"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "E=hf (Planck\u2013Einstein relation)"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "E=mc2 (Mass\u2013energy equivalence)"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "EPR paradox"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Einstein field equations"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Ensemble interpretation"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Gravitational wave"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "List of other concepts"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Photoelectric effect"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Theory of Brownian motion"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Unified field theory"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/n",
+        "object": "Einstein's equation turns 100"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/reason",
+        "object": "The sources do not definitively say that Margarita Konenkova is actually a Russian spy, only vaguely corroborated by the NYT quote \"According to a book by a former Soviet spy master...\""
+    },
+    {
+        "predicate": "http://dbpedia.org/property/s",
+        "object": "Author:Albert Einstein"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": ""
+    },
+    {
+        "predicate": "http://dbpedia.org/property/voy",
+        "object": "no"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/wikt",
+        "object": "Einstein"
+    },
+    {
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Albert Einstein (/\u02c8a\u026ansta\u026an/ EYEN-styne; German: [\u02c8alb\u025b\u0281t \u02c8\u0294a\u026an\u0283ta\u026an]; 14 March 1879 \u2013 18 April 1955) was a German-born theoretical physicist, widely acknowledged to be one of the greatest and most influential physicists of all time. Einstein is best known for developing the theory of relativity, but he also made important contributions to the development of the theory of quantum mechanics. Relativity and quantum mechanics are the two pillars of modern physics. His mass\u2013energy equivalence formula E = mc2, which arises from relativity theory, has been dubbed \"the world's most famous equation\". His work is also known for its influence on the philosophy of science. He received the 1921 Nobel Prize in Physics \"for his services to theoretical physics, and especially for his discovery of the law of the photoelectric effect\", a pivotal step in the development of quantum theory. His intellectual achievements and originality resulted in \"Einstein\" becoming synonymous with \"genius\". In 1905, a year sometimes described as his annus mirabilis ('miracle year'), Einstein published four groundbreaking papers. These outlined the theory of the photoelectric effect, explained Brownian motion, introduced special relativity, and demonstrated mass-energy equivalence. Einstein thought that the laws of classical mechanics could no longer be reconciled with those of the electromagnetic field, which led him to develop his special theory of relativity. He then extended the theory to gravitational fields; he published a paper on general relativity in 1916, introducing his theory of gravitation. In 1917, he applied the general theory of relativity to model the structure of the universe. He continued to deal with problems of statistical mechanics and quantum theory, which led to his explanations of particle theory and the motion of molecules. He also investigated the thermal properties of light and the quantum theory of radiation, which laid the foundation of the photon theory of light. However, for much of the later part of his career, he worked on two ultimately unsuccessful endeavors. First, despite his great contributions to quantum mechanics, he opposed what it evolved into, objecting that \"God does not play dice\". Second, he attempted to devise a unified field theory by generalizing his geometric theory of gravitation to include electromagnetism. As a result, he became increasingly isolated from the mainstream of modern physics. Einstein was born in the German Empire, but moved to Switzerland in 1895, forsaking his German citizenship (as a subject of the Kingdom of W\u00fcrttemberg) the following year. In 1897, at the age of 17, he enrolled in the mathematics and physics teaching diploma program at the Swiss Federal polytechnic school in Z\u00fcrich, graduating in 1900. In 1901, he acquired Swiss citizenship, which he kept for the rest of his life, and in 1903 he secured a permanent position at the Swiss Patent Office in Bern. In 1905, he was awarded a PhD by the University of Zurich. In 1914, Einstein moved to Berlin in order to join the Prussian Academy of Sciences and the Humboldt University of Berlin. In 1917, Einstein became director of the Kaiser Wilhelm Institute for Physics; he also became a German citizen again, this time Prussian. In 1933, while Einstein was visiting the United States, Adolf Hitler came to power in Germany. Einstein, as a Jew, objected to the policies of the newly elected Nazi government; he settled in the United States and became an American citizen in 1940. On the eve of World War II, he endorsed a letter to President Franklin D. Roosevelt alerting him to the potential German nuclear weapons program and recommending that the US begin similar research. Einstein supported the Allies but generally denounced the idea of nuclear weapons."
+    },
+    {
+        "predicate": "http://dbpedia.org/property/refs",
+        "object": "Drawing"
+    }
+]

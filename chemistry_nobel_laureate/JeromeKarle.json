@@ -1,0 +1,50 @@
+[
+    {
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Jerome Karle"
+    },
+    {
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Jerome Karle (born Jerome Karfunkle; June 18, 1918 \u2013 June 6, 2013) was an American physical chemist. Jointly with Herbert A. Hauptman, he was awarded the Nobel Prize in Chemistry in 1985, for the direct analysis of crystal structures using X-ray scattering techniques."
+    },
+    {
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Jerome Karle"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Jerome Karle"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "Annandale, Virginia, U.S."
+    },
+    {
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "New York, New York, U.S."
+    },
+    {
+        "predicate": "http://dbpedia.org/property/restingPlace",
+        "object": "Columbia Gardens Cemetery, Arlington, Virginia, U.S."
+    },
+    {
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Jerome Karfunkle"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": ""
+    },
+    {
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Jerome Karle (born Jerome Karfunkle; June 18, 1918 \u2013 June 6, 2013) was an American physical chemist. Jointly with Herbert A. Hauptman, he was awarded the Nobel Prize in Chemistry in 1985, for the direct analysis of crystal structures using X-ray scattering techniques."
+    },
+    {
+        "predicate": "http://dbpedia.org/property/prizes",
+        "object": "Nobel Prize in Chemistry in 1985"
+    },
+    {
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Jerome Karfunkle"
+    }
+]

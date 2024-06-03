@@ -1,1 +1,170 @@
+<<<<<<< HEAD
 [{"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Amikam_Aharoni"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.w3.org/2002/07/owl#Thing"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Amikam_Aharoni"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://xmlns.com/foaf/0.1/Person"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Amikam_Aharoni"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/Person"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Amikam_Aharoni"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Amikam_Aharoni"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.wikidata.org/entity/Q19088"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Amikam_Aharoni"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.wikidata.org/entity/Q215627"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Amikam_Aharoni"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.wikidata.org/entity/Q5"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Amikam_Aharoni"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.wikidata.org/entity/Q729"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Amikam_Aharoni"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/Animal"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Amikam_Aharoni"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/Eukaryote"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Amikam_Aharoni"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/Scientist"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Amikam_Aharoni"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/Species"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Amikam_Aharoni"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://schema.org/Person"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Amikam_Aharoni"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.wikidata.org/entity/Q901"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Amikam_Aharoni"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Academician109759069"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Amikam_Aharoni"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Adult109605289"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Amikam_Aharoni"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/CausalAgent100007347"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Amikam_Aharoni"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Educator110045713"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Amikam_Aharoni"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/LivingThing100004258"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Amikam_Aharoni"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Object100002684"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Amikam_Aharoni"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Organism100004475"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Amikam_Aharoni"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Person100007846"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Amikam_Aharoni"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/PhysicalEntity100001930"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Amikam_Aharoni"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Physicist110428004"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Amikam_Aharoni"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Professional110480253"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Amikam_Aharoni"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatIsraeliAcademics"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Amikam_Aharoni"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatIsraeliPhysicists"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Amikam_Aharoni"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatJewishScientists"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Amikam_Aharoni"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/YagoLegalActor"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Amikam_Aharoni"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/YagoLegalActorGeo"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Amikam_Aharoni"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Scientist110560637"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Amikam_Aharoni"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Whole100003553"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Amikam_Aharoni"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://umbel.org/umbel/rc/Scientist"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Amplifier"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.w3.org/2002/07/owl#Thing"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Amplifier"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Amplifier102705944"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Amplifier"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Artifact100021939"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Amplifier"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/ElectronicEquipment103278248"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Amplifier"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Equipment103294048"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Amplifier"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Instrumentality103575240"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Amplifier"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Object100002684"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Amplifier"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/PhysicalEntity100001930"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Amplifier"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/Device"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Amplifier"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/PersonFunction"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Amplifier"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Whole100003553"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Amplifier"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatElectronicAmplifiers"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Power_electronics"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.w3.org/2002/07/owl#Thing"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Power_electronics"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/Software"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Power_electronics"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/MusicGenre"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Princeton_University"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.w3.org/2002/07/owl#Thing"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Princeton_University"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://schema.org/CollegeOrUniversity"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Princeton_University"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://schema.org/EducationalOrganization"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Princeton_University"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://schema.org/Organization"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Princeton_University"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Princeton_University"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#SocialPerson"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Princeton_University"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/Agent"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Princeton_University"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.wikidata.org/entity/Q2385804"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Princeton_University"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.wikidata.org/entity/Q24229398"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Princeton_University"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.wikidata.org/entity/Q3918"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Princeton_University"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.wikidata.org/entity/Q43229"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Princeton_University"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/EducationalInstitution"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Princeton_University"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatUniversitiesAndCollegesInMercerCounty,NewJersey"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Princeton_University"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Princeton_University"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Abstraction100002137"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Princeton_University"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Association108049401"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Princeton_University"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/EducationalInstitution108276342"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Princeton_University"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Group100031264"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Princeton_University"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Institute108407330"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Princeton_University"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Institution108053576"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Princeton_University"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/Organization108008335"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Princeton_University"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/YagoLegalActor"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Princeton_University"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/YagoLegalActorGeo"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Princeton_University"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Princeton_University"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/Organisation"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Princeton_University"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/University"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Princeton_University"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/SocialGroup107950920"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Princeton_University"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/University108286569"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Princeton_University"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatEducationalInstitutionsEstablishedInThe1740s"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Princeton_University"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatEnvironmentalResearchInstitutes"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Princeton_University"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatPrivateUniversitiesAndCollegesInTheUnitedStates"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Princeton_University"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatTechnologyOrganizations"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Noyce"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.w3.org/2002/07/owl#Thing"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Noyce"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://xmlns.com/foaf/0.1/Person"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Noyce"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/Person"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Noyce"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Noyce"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.wikidata.org/entity/Q19088"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Noyce"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.wikidata.org/entity/Q215627"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Noyce"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.wikidata.org/entity/Q5"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Noyce"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://www.wikidata.org/entity/Q729"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Noyce"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatAmericanAgnostics"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Noyce"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatAmericanChiefExecutives"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Noyce"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatAmericanComputerScientists"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Noyce"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatAmericanEngineers"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Noyce"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatAmericanInventors"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Noyce"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatAmericanPeople"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Noyce"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatAmericanPeopleOfBritishDescent"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Noyce"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatAmericanPeopleOfEnglishDescent"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Noyce"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatAmericanPhysicists"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Noyce"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/class/yago/WikicatAmericanScientists"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Noyce"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/Animal"}}, {"subject": {"type": "uri", "value": "http://dbpedia.org/resource/Robert_Noyce"}, "predicate": {"type": "uri", "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"}, "object": {"type": "uri", "value": "http://dbpedia.org/ontology/Eukaryote"}}]
+=======
+[
+    {
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "John Bardeen"
+    },
+    {
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "John Bardeen (/b\u0251\u02d0r\u02c8di\u02d0n/; May 23, 1908 \u2013 January 30, 1991) was an American physicist and engineer. He is the only person to be awarded the Nobel Prize in Physics twice: first in 1956 with William Shockley and Walter Brattain for the invention of the transistor; and again in 1972 with Leon N. Cooper and John Robert Schrieffer for a fundamental theory of conventional superconductivity known as the BCS theory."
+    },
+    {
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "John Bardeen"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "John Bardeen"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "Boston, Massachusetts, U.S."
+    },
+    {
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Madison, Wisconsin, U.S."
+    },
+    {
+        "predicate": "http://dbpedia.org/property/thesisTitle",
+        "object": "Quantum Theory of the Work Function"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/workplaces",
+        "object": "Assistant Professor of Physics at the University of Minnesota-Twin Cities ~1941-1945"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/align",
+        "object": "right"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/awards",
+        "object": "Nobel Prize in Physics"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/awards",
+        "object": ""
+    },
+    {
+        "predicate": "http://dbpedia.org/property/awards",
+        "object": "National Medal of Science"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/awards",
+        "object": "Oliver E. Buckley Condensed Matter Prize"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/awards",
+        "object": "ForMemRS"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/awards",
+        "object": "IEEE Medal of Honor"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/awards",
+        "object": "Stuart Ballantine Medal"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/awards",
+        "object": "Harold Pender Award"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/awards",
+        "object": "Lomonosov Gold Medal"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/awards",
+        "object": "Fritz London Memorial Prize"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Bardeen in 1956"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/children",
+        "object": ""
+    },
+    {
+        "predicate": "http://dbpedia.org/property/children",
+        "object": "James M. Bardeen"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/children",
+        "object": "Elizabeth Greytak"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/children",
+        "object": "William A. Bardeen"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/education",
+        "object": "Princeton University"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Superconductivity"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": ""
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "BCS theory"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Field-effect transistor"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Deformation potential theory"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Mattis\u2013Bardeen theory"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Point-contact transistor"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Surface physics"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/quote",
+        "object": "Near the end of this decade, when they begin enumerating the names of the people who had the greatest impact on the 20th century, the name of John Bardeen, who died last week, has to be near, or perhaps even arguably at, the top of the list ... Mr. Bardeen shared two Nobel Prizes and has been awarded numerous other honors.  But what greater honor can there be when each of us can look all around us and everywhere see the reminders of a man whose genius has made our lives longer, healthier and better."
+    },
+    {
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": ""
+    },
+    {
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": "Jane Maxwell"
+    },
+    {
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "John Bardeen (/b\u0251\u02d0r\u02c8di\u02d0n/; May 23, 1908 \u2013 January 30, 1991) was an American physicist and engineer. He is the only person to be awarded the Nobel Prize in Physics twice: first in 1956 with William Shockley and Walter Brattain for the invention of the transistor; and again in 1972 with Leon N. Cooper and John Robert Schrieffer for a fundamental theory of conventional superconductivity known as the BCS theory. The transistor revolutionized the electronics industry, making possible the development of almost every modern electronic device, from telephones to computers, and ushering in the Information Age. Bardeen's developments in superconductivity\u2014for which he was awarded his second Nobel Prize\u2014are used in nuclear magnetic resonance spectroscopy (NMR), medical magnetic resonance imaging (MRI), and superconducting quantum circuits. Born and raised in Wisconsin, Bardeen received a PhD in physics from Princeton University. After serving in World War II, he was a researcher at Bell Labs, and a professor at the University of Illinois. In 1990, Bardeen appeared on Life magazine's list of \"100 Most Influential Americans of the Century.\""
+    },
+    {
+        "predicate": "http://dbpedia.org/property/doctoralStudents",
+        "object": ""
+    },
+    {
+        "predicate": "http://dbpedia.org/property/doctoralStudents",
+        "object": "John Robert Schrieffer"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/doctoralStudents",
+        "object": "Nick Holonyak"
+    },
+    {
+        "predicate": "http://dbpedia.org/property/doctoralStudents",
+        "object": "William L. McMillan"
+    }
+]
+>>>>>>> d36f05a (Adds files named after each section)
