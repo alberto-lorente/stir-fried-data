@@ -1,0 +1,64 @@
+year: 1970
+name: Louis Néel
+country: France
+category: Physics
+biography: Louis Eugène Félix Néel  (22 November 1904 – 17 November 2000) was a French physicist born in Lyon who received the Nobel Prize for Physics in 1970 for his studies of the magnetic properties of solids.
+
+
+== Biography ==
+Néel studied at the Lycée du Parc in Lyon and was accepted at the École Normale Supérieure in Paris. He obtained the degree of Doctor of Science at the University of Strasbourg. He was corecipient (with the Swedish astrophysicist Hannes Alfvén) of the Nobel Prize for Physics in 1970 for his pioneering studies of the magnetic properties of solids. His contributions to solid state physics have found numerous useful applications, particularly in the development of improved computer memory units. About 1930 he suggested that a new form of magnetic behavior might exist; called antiferromagnetism, as opposed to ferromagnetism. Above a certain temperature (the Néel temperature) this behaviour stops. Néel pointed out (1948) that materials could also exist showing ferrimagnetism. Néel has also given an explanation of the weak magnetism of certain rocks, making possible the study of the history of Earth's magnetic field.
+He is the instigator of the Polygone Scientifique in Grenoble.
+The Louis Néel Medal, awarded annually by the European Geophysical Society, is named in Néel's honour.
+Néel died at Brive-la-Gaillarde on 17 November 2000 at the age 95, just 5 days short of his 96th birthday.
+
+
+== Awards and honours ==
+Néel received numerous awards and honours for his work including:
+
+
+=== Awards ===
+Hughes Prize of the Académie des sciences (1935)
+Félix Robin Prize of the Société française de physique (1938)
+André Blondel Medal (1948)
+Grand prix du conseil de l’association « Au service de la pensée française » (1949)
+Holweck Prize (1952)
+Elected Foreign Member of the Royal Netherlands Academy of Arts and Sciences (1959)
+Three Physicists Prize (1963)
+Gold Medal of CNRS (1965)
+Elected Foreign Member of the Royal Society (ForMemRS) in 1966
+Nobel Prize in Physics (1970)
+Great Gold Medal of l’Électronique (1971)
+Great Gold Medal of the Société d’encouragement pour la recherche et l’invention (1973)
+Founding member of the World Cultural Council (1981).
+
+
+=== Distinctions ===
+Owing to his involvement in national defense, particularly through research in the protection of warships by demagnetization against magnetic mines, he received numerous distinctions:
+
+Legion of Honour:
+Knight (for exceptional military services) (1940)
+Officer (1951)
+Commander (1958)
+Grand Officer (1966)
+Grand Cross (1974)
+Croix de Guerre with Palm (1940)
+Commander of the Ordre des Palmes Académiques (1957)
+Knight of the Order of Social Merit (1963)
+Grand Cross of the National Order of Merit (1972)
+Honorary Admiral (French Navy)
+
+
+== See also ==
+Néel effect
+Néel relaxation theory
+Néel temperature
+Néel wall
+Néel TRM model
+
+
+== References ==
+
+
+== External links ==
+
+Louis Néel on Nobelprize.org  including the Nobel Lecture, 11 December 1970 Magnetism and the Local Molecular Field
