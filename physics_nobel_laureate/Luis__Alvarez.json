@@ -1,0 +1,16 @@
+[
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://en.wikipedia.org/wiki/Luis_Alvarez"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://xmlns.com/foaf/0.1/primaryTopic"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Luis_Alvarez"
+        }
+    }
+]

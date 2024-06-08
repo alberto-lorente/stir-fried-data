@@ -1,0 +1,17 @@
+year: 1972
+name: Stanford Moore
+country: United States
+category: Chemistry
+biography: Stanford Moore (September 4, 1913 – August 23, 1982) was an American biochemist. He shared a Nobel Prize in Chemistry in 1972, with Christian B. Anfinsen and William Howard Stein, for work done at Rockefeller University on the structure of the enzyme ribonuclease and for contributing to the understanding of the connection between the chemical structure and catalytic activity of the ribonuclease molecule.
+Moore attended Peabody Demonstration School, now known as University School of Nashville, and in 1935 graduated summa cum laude  from Vanderbilt University, where he was a member of Phi Kappa Sigma.  He earned his doctorate in Organic Chemistry from the University of Wisconsin–Madison in 1938.  Moore then joined the staff of the Rockefeller Institute, later Rockefeller University, where he spent his entire professional career, with the exception of a period of government service during World War II.  He became Professor of Biochemistry in 1952.
+In 1958, he and William H. Stein developed the first automated amino acid analyzer, which facilitated the determination of protein sequences. In 1959, Moore and Stein announced the first determination of the complete amino acid sequence of an enzyme, ribonuclease, work which was cited in the Nobel award.
+
+
+== References ==
+Marshall, Garland R; Feng Jiawen A; Kuster Daniel J (2008). "Back to the future: Ribonuclease A". Biopolymers. 90 (3): 259–77. doi:10.1002/bip.20845. PMID 17868092. S2CID 2905312.
+Hirs, C H (January 1984). "Stanford Moore. Some personal recollections of his life and times". Anal. Biochem. 136 (1): 3–6. doi:10.1016/0003-2697(84)90301-4. PMID 6370037.
+
+
+== External links ==
+Stanford Moore — Biographical Memoirs of the National Academy of Sciences
+Stanford Moore on Nobelprize.org  including the Nobel Lecture, December 11, 1972 The Chemical Structures of Pancreatic Ribonuclease and Deoxyribonuclease

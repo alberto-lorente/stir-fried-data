@@ -1,0 +1,38 @@
+year: 1978
+name: Peter D. Mitchell
+country: United Kingdom
+category: Chemistry
+biography: Peter Dennis Mitchell FRS (29 September 1920 – 10 April 1992) was a British biochemist who was awarded the 1978 Nobel Prize for Chemistry for his theory of the chemiosmotic mechanism of ATP synthesis.
+
+
+== Education and early life ==
+Mitchell was born in Mitcham, Surrey on 29 September 1920. His parents were Christopher Gibbs Mitchell, a civil servant, and Kate Beatrice Dorothy (née) Taplin. His uncle was Sir Godfrey Way Mitchell, chairman of George Wimpey. He was educated at Queen's College, Taunton and Jesus College, Cambridge where he studied the Natural Sciences Tripos specialising in Biochemistry.
+He was appointed a research post in the Department of Biochemistry, Cambridge, in 1942, and was awarded a Ph.D. in early 1951 for work on the mode of action of penicillin.
+
+
+== Career and research ==
+In 1955 he was invited by Professor Michael Swann to set up a biochemical research unit, called the Chemical Biology Unit, in the Department of Zoology, at the University of Edinburgh, where he was appointed a Senior Lecturer in 1961, then Reader in 1962, although institutional opposition to his work coupled with ill health led to his resignation in 1963.
+From 1963 to 1965, he supervised the restoration of a Regency-fronted Mansion, known as Glynn House, at Cardinham near Bodmin, Cornwall - adapting a major part of it for use as a research laboratory. He and his former research colleague, Jennifer Moyle founded a charitable company, known as Glynn Research Ltd., to promote fundamental biological research at Glynn House and they embarked on a programme of research on chemiosmotic reactions and reaction systems.
+
+
+=== Chemiosmotic hypothesis ===
+In the 1960s, ATP was known to be the energy currency of life, but the mechanism by which ATP was created in the mitochondria was assumed to be by substrate-level phosphorylation. Mitchell's chemiosmotic hypothesis was the basis for understanding the actual process of oxidative phosphorylation. At the time, the biochemical mechanism of ATP synthesis by oxidative phosphorylation was unknown.
+
+Mitchell realised that the movement of ions across an electrochemical potential difference could provide the energy needed to produce ATP. His hypothesis was derived from information that was well known in the 1960s. He knew that living cells had a membrane potential; interior negative to the environment. The movement of charged ions across a membrane is thus affected by the electrical forces (the attraction of positive to negative charges). Their movement is also affected by thermodynamic forces, the tendency of substances to diffuse from regions of higher concentration. He went on to show that ATP synthesis was coupled to this electrochemical gradient.
+
+His hypothesis was confirmed by the discovery of ATP synthase, a membrane-bound protein that uses the potential energy of the electrochemical gradient to make ATP; and by the discovery by André Jagendorf that a pH difference across the thylakoid membrane in the chloroplast results in ATP synthesis.
+
+
+==== Protonmotive Q-cycle ====
+Later, Peter Mitchell also hypothesized some of the complex details of electron transport chains. He conceived of the coupling of proton pumping to quinone-based electron bifurcation, which contributes to the proton motive force and thus, ATP synthesis.
+
+
+=== Awards and honours ===
+In 1978 he was awarded the Nobel Prize in Chemistry "for his contribution to the understanding of biological energy transfer through the formulation of the chemiosmotic theory." He was elected a Fellow of the Royal Society (FRS) in 1974.
+
+
+== References ==
+
+
+== External links ==
+Peter Mitchell on Nobelprize.org
