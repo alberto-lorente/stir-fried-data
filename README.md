@@ -1,15 +1,15 @@
 # Data Science Project 2024 - Stir-fried data
 
 Authors:
-Alberto Lorente Galé
-Oyetunji Daniel Abioye
-Ziyan Xu
+Alberto Lorente Galé,
+Oyetunji Daniel Abioye,
+Ziyan Xu and
 Pin-Xun Huang
 
 Supervisor:
 Prof. Claire Gardent
 
-MSc Natural Language Processing
+MSc Natural Language Processing,
 Université de Lorraine
 
 ## Categories
