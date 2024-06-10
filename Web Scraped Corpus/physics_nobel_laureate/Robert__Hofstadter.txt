@@ -19,7 +19,7 @@ In 1948 Hofstadter filed a patent on this for the detection of ionizing radiatio
 
 === Coining of the fermi (unit) and 1961 Nobel Lecture ===
 Robert Hofstadter coined the term fermi, symbol fm,
-in honor of the Italian physicist Enrico Fermi (1901–1954), one of the founders of nuclear physics, in Hofstadter's 1956 paper published in the Reviews of Modern Physics journal, "Electron Scattering and Nuclear Structure". The term is widely used by nuclear and particle physicists. When Hofstadter was awarded the 1961 Nobel Prize in Physics, it subsequently appears in the text of his 1961 Nobel Lecture, "The electron-scattering method and its application to the structure of nuclei and nucleons" (December 11, 1961).
+in honor of the Italian physicist Enrico Fermi (1901–1954), one of the founders of nuclear physics, in Hofstadter's 1956 paper published in the Reviews of Modern Physics journal, "Electron Scattering and Nuclear Structure". The term is widely used by nuclear and particle physicists. When Hofstadter was awarded the 1961 Nobel Prize in Physics, it subsequently appeared in the text of his 1961 Nobel Lecture, "The electron-scattering method and its application to the structure of nuclei and nucleons" (December 11, 1961).
 
 
 === Compton Gamma Ray Observatory and EGRET Telescope ===

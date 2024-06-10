@@ -44,3 +44,4 @@ urllib3==2.2.1
 wcwidth==0.2.13
 wikipedia==1.4.0
 wptools==0.4.17
+stanza==1.8.2

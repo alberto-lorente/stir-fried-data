@@ -6,7 +6,7 @@ biography: Leon N. Cooper (born February 28, 1930) is an American physicist and 
 
 
 == Biography and career ==
-Cooper's mother is Jewish. Cooper graduated from the Bronx High School of Science in 1947 and received a BA in 1951, MA in 1953, and PhD in 1954 from Columbia University. He spent a year at the Institute for Advanced Study and taught at the University of Illinois and Ohio State University before coming to Brown University in 1958. He has been the Thomas J. Watson Sr. Professor of Science at Brown since 1974, and director of the Institute for Brain and Neural Systems which he founded in 1973. Along with colleague Charles Elbaum, he founded the tech company Nestor, dedicated to finding commercial applications for artificial neural networks. Nestor, along with Intel, developed the Ni1000 neural network computer chip in 1994.
+Cooper's mother was Jewish. Cooper graduated from the Bronx High School of Science in 1947 and received a BA in 1951, MA in 1953, and PhD in 1954 from Columbia University. He spent a year at the Institute for Advanced Study and taught at the University of Illinois and Ohio State University before coming to Brown University in 1958. He has been the Thomas J. Watson Sr. Professor of Science at Brown since 1974, and director of the Institute for Brain and Neural Systems which he founded in 1973. Along with colleague Charles Elbaum, he founded the tech company Nestor, dedicated to finding commercial applications for artificial neural networks. Nestor, along with Intel, developed the Ni1000 neural network computer chip in 1994.
 
 In 1969 Cooper married Kay Allard. They have two children.
 He has carried out research at various institutions including the Institute for Advanced Study and the European Organization for Nuclear Research (CERN) in Geneva, Switzerland.
@@ -31,9 +31,9 @@ Recipient of seven honorary doctorates
 
 
 == Publications ==
-Cooper is the author of Science and Human Experience – a collection of essays, including previously unpublished material, on issues such as consciousness and the structure of space.
+Cooper was the author of Science and Human Experience – a collection of essays, including previously unpublished material, on issues such as consciousness and the structure of space.
 (Cambridge University Press, 2014).
-Cooper is the author of an unconventional liberal-arts physics textbook, originally An Introduction to the Meaning and Structure of Physics (Harper and Row, 1968) and still in print in a somewhat condensed form as Physics: Structure and Meaning (Lebanon: New Hampshire, University Press of New England, 1992).
+Cooper was the author of an unconventional liberal-arts physics textbook, originally An Introduction to the Meaning and Structure of Physics (Harper and Row, 1968) and still in print in a somewhat condensed form as Physics: Structure and Meaning (Lebanon: New Hampshire, University Press of New England, 1992).
 
 Cooper, L. N. & J. Rainwater. "Theory of Multiple Coulomb Scattering from Extended Nuclei", Nevis Cyclotron Laboratories at Columbia University, Office of Naval Research (ONR), United States Department of Energy (through predecessor agency the Atomic Energy Commission), (August 1954).
 Cooper, Leon N. (1956). "Bound Electron Pairs in a Degenerate Fermi Gas". Physical Review. 104 (4): 1189–1190. Bibcode:1956PhRv..104.1189C. doi:10.1103/PhysRev.104.1189.
