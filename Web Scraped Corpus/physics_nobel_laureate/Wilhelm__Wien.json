@@ -1,0 +1,1402 @@
+[
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Primorsk,_Kaliningrad_Oblast"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Casimir_IV_Jagiellon"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Primorsk,_Kaliningrad_Oblast"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Principality_of_R\u00fcgen"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Primorsk,_Kaliningrad_Oblast"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Prussian_Crusade"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Primorsk,_Kaliningrad_Oblast"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Urban-type_settlement"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Primorsk,_Kaliningrad_Oblast"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Boles\u0142aw_I_the_Brave"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Primorsk,_Kaliningrad_Oblast"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/House_of_Hohenzollern"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Primorsk,_Kaliningrad_Oblast"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Congress_of_Vienna"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Primorsk,_Kaliningrad_Oblast"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Crown_of_the_Kingdom_of_Poland"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Primorsk,_Kaliningrad_Oblast"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Russia"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Primorsk,_Kaliningrad_Oblast"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Frederick_I_of_Prussia"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Primorsk,_Kaliningrad_Oblast"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/George_of_Polentz"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Primorsk,_Kaliningrad_Oblast"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/German_Empire"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Primorsk,_Kaliningrad_Oblast"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Gothic_architecture"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Primorsk,_Kaliningrad_Oblast"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Thirteen_Years'_War_(1454\u20131466)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Primorsk,_Kaliningrad_Oblast"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Stralsund"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Primorsk,_Kaliningrad_Oblast"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Subdivisions_of_Russia"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Primorsk,_Kaliningrad_Oblast"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Zelenogradsky_District"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Primorsk,_Kaliningrad_Oblast"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Baltiysk"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Primorsk,_Kaliningrad_Oblast"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Baltiysky_District,_Kaliningrad_Oblast"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Primorsk,_Kaliningrad_Oblast"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Wilhelm_Wien"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Primorsk,_Kaliningrad_Oblast"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Adalbert_of_Prague"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Primorsk,_Kaliningrad_Oblast"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Albert,_Duke_of_Prussia"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Primorsk,_Kaliningrad_Oblast"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Albert_Frederick,_Duke_of_Prussia"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Primorsk,_Kaliningrad_Oblast"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Duchy_of_Prussia"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Primorsk,_Kaliningrad_Oblast"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Amber_Coast"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Primorsk,_Kaliningrad_Oblast"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Ottokar_II_of_Bohemia"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Primorsk,_Kaliningrad_Oblast"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Bishopric_of_Samland"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Primorsk,_Kaliningrad_Oblast"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/German_town_law"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Primorsk,_Kaliningrad_Oblast"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Sacred_grove"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Primorsk,_Kaliningrad_Oblast"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Province_of_East_Prussia"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Primorsk,_Kaliningrad_Oblast"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Prussia_(region)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Primorsk,_Kaliningrad_Oblast"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Prussian_Confederation"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Primorsk,_Kaliningrad_Oblast"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Marie_Jonas"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Primorsk,_Kaliningrad_Oblast"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:Cities_and_towns_in_Kaliningrad_Oblast"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Primorsk,_Kaliningrad_Oblast"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Teutonic_Order"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Primorsk,_Kaliningrad_Oblast"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Arno_Motulsky"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Primorsk,_Kaliningrad_Oblast"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Kaliningrad"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Primorsk,_Kaliningrad_Oblast"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Kaliningrad_Oblast"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Primorsk,_Kaliningrad_Oblast"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Sambia_Peninsula"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Primorsk,_Kaliningrad_Oblast"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Dietrich_von_Saucken"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Primorsk,_Kaliningrad_Oblast"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Dorothea_of_Denmark,_Duchess_of_Prussia"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Primorsk,_Kaliningrad_Oblast"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Arthur_von_Hippel_(physician)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Primorsk,_Kaliningrad_Oblast"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Soviet_Union"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Primorsk,_Kaliningrad_Oblast"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Fief"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Primorsk,_Kaliningrad_Oblast"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Kingdom_of_Prussia"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Primorsk,_Kaliningrad_Oblast"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/K\u00f6nigsberg"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Primorsk,_Kaliningrad_Oblast"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Old_Prussian_language"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Primorsk,_Kaliningrad_Oblast"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Red_Army"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Primorsk,_Kaliningrad_Oblast"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/World_War_II"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Primorsk,_Kaliningrad_Oblast"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Yantarny,_Kaliningrad_Oblast"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Primorsk,_Kaliningrad_Oblast"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Sambians"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Primorsk,_Kaliningrad_Oblast"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Vistula_Lagoon"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Primorsk,_Kaliningrad_Oblast"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Town_of_district_significance"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Primorsk,_Kaliningrad_Oblast"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Types_of_inhabited_localities_in_Russia"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Primorsk,_Kaliningrad_Oblast"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/File:Fischhausen_(1684).JPG"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Primorsk,_Kaliningrad_Oblast"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/File:Kirche_Fischhausen.jpg"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Proton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Cancer"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Proton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Cardiff"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Proton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Pressure"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Proton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Proton_decay"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Proton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Proton\u2013proton_chain"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Proton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/QCD_vacuum"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Proton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Quantum_electrodynamics"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Proton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Quantum_field_theory"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Proton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Quark"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Proton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Quark_model"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Proton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Electric_charge"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Proton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Energy_level"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Proton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Nitrogen"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Proton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/SVZ_sum_rules"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Proton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Total_angular_momentum"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Proton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Base_(chemistry)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Proton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Beta_decay"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Proton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Biochemistry"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Proton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Brady_Haran"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Proton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Deuterium"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Proton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Antiparticle"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Proton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:Baryons"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Proton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:Hydrogen_physics"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Proton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:Nucleons"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Proton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:Proton"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Proton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Antonius_van_den_Broek"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Proton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Apollo_Lunar_Surface_Experiments_Package"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Proton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Human_spaceflight"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Proton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Hydrogen"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Proton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Hydrogen_atom"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Proton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Hydron_(chemistry)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Proton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Hydronium"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Proton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_particles"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Proton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Periodic_table"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Proton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Rindler_coordinates"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Proton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Charge_radius"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Proton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/University_of_Nottingham"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Proton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Unruh_effect"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Proton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Up_quark"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Proton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Dopaminergic"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Proton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Interstellar_medium"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Proton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Electron_cloud"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Proton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Standard_deviation"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Proton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Nuclear_force"
+        }
+    }
+]

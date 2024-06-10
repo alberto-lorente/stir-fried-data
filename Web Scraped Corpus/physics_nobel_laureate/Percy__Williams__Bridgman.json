@@ -1,0 +1,1402 @@
+[
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_black"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_dioxide"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_diselenide"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_monosulfide"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_monoxide"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_subsulfide"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_tetrachloride"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbonyl_sulfide"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Catalyst"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:Inorganic_solvents"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Psychosis"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Pyrite"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Rubber"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Electrophile"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Encephalopathy"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Benzene"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Alkoxide"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Hypertension"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Percy_Williams_Bridgman"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Cuprammonium_rayon"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Cyclopentadienyl_complex"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Marsh"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Richardson's_ground_squirrel"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:Foul-smelling_chemicals"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:Hazardous_air_pollutants"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:Occupational_safety_and_health"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Courtaulds"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Chemical_compound"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Chemical_hazard"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Chemical_structure"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Chlorination_reaction"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Oil"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Organic_chemistry"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Nucleophile"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Enzyme"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Thiophosgene"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/1949_Holland_Tunnel_fire"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Angina_pectoris"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Silica_gel"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Stroke"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Delirium"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Empirical_formula"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Fumigation"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Poise_(unit)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Bromine"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:Sulfides"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Cellulose"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Viscose"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Alexander_Marcet"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Ethanol"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Fat"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Paranoia"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide_hydrolase"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Cardiovascular_disease"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:Dichalcogenides"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:Inorganic_sulfur_compounds"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Cellophane"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Hapticity"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Isoelectronicity"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Natural_gas"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Resin"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:Neurotoxins"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Hallucinations"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Asthenozoospermia"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Iodine"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Asphalt"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Chemical_formula"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Chlorine"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Chloroform"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/J\u00f6ns_Jacob_Berzelius"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Sulfur"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Sulfur_dioxide"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Coke_(fuel)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Diethyl_ether"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Disulfur_dichloride"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:Inorganic_carbon_compounds"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Phosphorus"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Sodium_1,3-dithiole-2-thione-4,5-dithiolate"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Sodium_diethyldithiocarbamate"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Metam_sodium"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/National_Institute_for_Occupational_Safety_and_Health"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Neurotoxic"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Rayon"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Selenium"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Methyl_group"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Semiconductor"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Solvent"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Volatility_(chemistry)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Volcano"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Dithiocarbamates"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Wilhelm_August_Lampadius"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Lyocell"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Xanthate"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Nematodes"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Teratospermia"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Vulcanized_rubber"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Thiolate"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Alumina"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carbon_disulfide"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Thioxanthate"
+        }
+    }
+]

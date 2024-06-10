@@ -1,0 +1,1402 @@
+[
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Cardiopulmonary_resuscitation"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_School_of_Dental_Medicine"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_Spartans_football"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University_School_of_Law"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University_School_of_Medicine"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/American_Anti-Slavery_Society"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/American_lower_class"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/American_middle_class"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:Technological_universities_in_the_United_States"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Bed"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Presidents'_Athletic_Conference"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Psychology"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Robert_W._Morse"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Samuel_Mather"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Scott_Cowen"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Electrochemical_engineering"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Electrochemistry"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/MIDI"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Michelson\u2013Morley_experiment"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/National_Association_for_College_Admission_Counseling"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/M._Frank_Rudy"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Nobel_Prize_in_Chemistry"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/UNIVAC_1107"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Beachwood,_Ohio"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Beta_Theta_Pi"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Beta_decay"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Biology"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Biomedical_Engineering"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Blood_transfusion"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/David_H._Auston"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/David_Hudson_(pioneer)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/David_V._Ragone"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Dayton_Miller"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Delta_Chi"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Delta_Gamma"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Delta_Sigma_Phi"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Delta_Tau_Delta"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Delta_Upsilon"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Allostasis"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:Private_universities_and_colleges_in_Ohio"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Hollywood_(film_industry)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Houston"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Hudson,_Ohio"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Hunting_Valley,_Ohio"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/John_S._Millis"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/John_Sykes_Fayette"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Biba_Model"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Little_Italy\u2013University_Circle_station"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Paul_Berg"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Paul_Buchheit"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Peter_Agre"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Peter_Sterling_(Neuroscientist)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Peter_Tippett"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Research_and_development"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Richard_Thaler"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Risk_assessment"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Riyadh"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Robert_Kearns"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Underground_Railroad"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Universities_Research_Association"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/University_Athletic_Association"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/University_Circle"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/University_of_Minnesota"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Defibrillation"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Dormitory"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Downtown_Cleveland"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Infant_formula"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Information_asymmetry"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Internet"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Internet_Streaming_Media_Alliance"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/LDS-1_(Line_Drawing_System-1)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Luminiferous_aether"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Pay-by-phone_parking"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Pell_grant"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Corneille_Heymans"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Cosmic_ray"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Craig_Newmark"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Craigslist"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Mechanical_Engineering"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/STS-50"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/STS-73"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Nursing"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Simon_Ostrach"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Whegs"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Particle_detector"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Civil_rights_movement"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Claude_Beck"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Cleveland"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Cleveland_Botanical_Garden"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Cleveland_Clinic"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Cleveland_Institute_of_Music"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Cleveland_Museum_of_Art"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Cleveland_Museum_of_Natural_History"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Cleveland_Orchestra"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Edward_C._Prescott"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Edward_M._Hundert"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Edward_W._Morley"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Edward_Williams_(businessman)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Elias_Loomis"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Western_Reserve_University"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Elizur_Wright"
+        }
+    }
+]

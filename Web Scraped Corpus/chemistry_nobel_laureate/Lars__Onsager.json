@@ -1,0 +1,1402 @@
+[
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Canonical_ensemble"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Canonical_coordinates"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Canonical_ensemble"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Schr\u00f6dinger_equation"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Canonical_ensemble"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Boltzmann_constant"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Canonical_ensemble"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Bra\u2013ket_notation"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Canonical_ensemble"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Josiah_Willard_Gibbs"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Canonical_ensemble"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Variance"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Canonical_ensemble"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Matrix_diagonalization"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Canonical_ensemble"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Matrix_exponential"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Canonical_ensemble"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Chemical_potential"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Canonical_ensemble"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Entropy"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Canonical_ensemble"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Grand_canonical_ensemble"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Canonical_ensemble"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Ludwig_Boltzmann"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Canonical_ensemble"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Statistical_ensemble_(mathematical_physics)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Canonical_ensemble"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Density_matrix"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Canonical_ensemble"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Fundamental_thermodynamic_relation"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Canonical_ensemble"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Hamiltonian_(quantum_mechanics)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Canonical_ensemble"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Helmholtz_free_energy"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Canonical_ensemble"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Gibbs_entropy"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Canonical_ensemble"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Phase_space"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Canonical_ensemble"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Stationary_state"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Canonical_ensemble"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Microstate_(statistical_mechanics)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Canonical_ensemble"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Trace_(linear_algebra)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Canonical_ensemble"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Heat_bath"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Canonical_ensemble"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Exact_differential"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Canonical_ensemble"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/First_law_of_thermodynamics"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Canonical_ensemble"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Partition_function_(statistical_mechanics)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Canonical_ensemble"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Ising_model"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Canonical_ensemble"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Thermal_fluctuations"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Canonical_ensemble"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Statistical_mechanics"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Canonical_ensemble"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Lars_Onsager"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Canonical_ensemble"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Phase_transition"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Canonical_ensemble"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Boltzmann_distribution"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Canonical_ensemble"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Planck's_law"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Canonical_ensemble"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Square-lattice_Ising_model"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Canonical_ensemble"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Ferromagnetism"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Canonical_ensemble"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Maxwell_speed_distribution"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Canonical_ensemble"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Microcanonical_ensemble"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Canonical_ensemble"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:Statistical_ensembles"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Canonical_ensemble"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Maxwell\u2013Boltzmann_statistics"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Canonical_ensemble"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Self-assembled_monolayer"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Canonical_ensemble"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Thermal_equilibrium"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Canonical_ensemble"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Polymer_physics"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Canonical_ensemble"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Statistical_physics"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Canonical_ensemble"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Thermodynamic_limit"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Canonical_ensemble"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Macroscopic_limit"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Canonical_ensemble"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Joint_probability_density_function"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Canonical_ensemble"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Absolute_temperature"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Robert_Marc_Mazo"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/California_Institute_of_Technology"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Robert_Marc_Mazo"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/American_Association_of_University_Professors"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Robert_Marc_Mazo"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/University_of_Amsterdam"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Robert_Marc_Mazo"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/University_of_Chicago"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Robert_Marc_Mazo"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/University_of_Oregon"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Robert_Marc_Mazo"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:1930_births"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Robert_Marc_Mazo"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:Living_people"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Robert_Marc_Mazo"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Brooklyn,_New_York"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Robert_Marc_Mazo"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Sloan_Research_Fellowship"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Robert_Marc_Mazo"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Emeritus"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Robert_Marc_Mazo"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:California_Institute_of_Technology_faculty"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Robert_Marc_Mazo"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:Fellows_of_the_American_Physical_Society"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Robert_Marc_Mazo"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:Harvard_University_alumni"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Robert_Marc_Mazo"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:Yale_University_alumni"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Robert_Marc_Mazo"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Brooklyn"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Robert_Marc_Mazo"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/John_Gamble_Kirkwood"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Robert_Marc_Mazo"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_American_Physical_Society_Fellows"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Robert_Marc_Mazo"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Oxford_University_Press"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Robert_Marc_Mazo"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Probability"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Robert_Marc_Mazo"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Harvard_University"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Robert_Marc_Mazo"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Statistical_mechanics"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Robert_Marc_Mazo"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:Physical_chemists"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Robert_Marc_Mazo"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:Theoretical_physicists"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Robert_Marc_Mazo"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:University_of_Oregon_faculty"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Robert_Marc_Mazo"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Lars_Onsager"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Robert_Marc_Mazo"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Transport_phenomena"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Robert_Marc_Mazo"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Regeneron_Science_Talent_Search"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Robert_Marc_Mazo"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Brownian_motion"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Robert_Marc_Mazo"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/National_Science_Foundation"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Robert_Marc_Mazo"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Yale_University"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Robert_Marc_Mazo"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Markov_chain"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Robert_Marc_Mazo"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Physical_chemistry"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Miami_faculty"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carolyne_Van_Vliet"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Miami_faculty"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Amina_Gautier"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Miami_faculty"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Amishi_Jha"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Miami_faculty"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Amy_C._Clement"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Miami_faculty"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Robert_MacArthur_Crawford"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Miami_faculty"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Robert_Raben"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Miami_faculty"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Rodney_Smith_(judge)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Miami_faculty"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Roger_Lhermitte"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Miami_faculty"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Ron_Feinberg"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Miami_faculty"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Samuel_Pilafian"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Miami_faculty"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Santiago_Rodriguez_(pianist)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Miami_faculty"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Melvin_Defleur"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Miami_faculty"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Metropolitan_statistical_area"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Miami_faculty"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Shelly_Berg"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Miami_faculty"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Stefan_Brecht"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Miami_faculty"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Behram_Kur\u015funo\u011flu"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Miami_faculty"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Berit_Brogaard"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Miami_faculty"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Bernard_Benstock"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Miami_faculty"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Bill_Porter_(sound_engineer)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Miami_faculty"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Bowman_Foster_Ashe"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Miami_faculty"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Brian_Lynch_(musician)"
+        }
+    }
+]

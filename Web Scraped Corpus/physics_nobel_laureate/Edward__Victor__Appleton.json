@@ -1,0 +1,1402 @@
+[
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Camille_Gutton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Joseph_Larmor"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Camille_Gutton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Peder_Oluf_Pedersen"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Camille_Gutton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Radar"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Camille_Gutton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Prosper-Ren\u00e9_Blondlot"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Camille_Gutton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Saint-Nom-la-Bret\u00e8che"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Camille_Gutton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Edward_Victor_Appleton"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Camille_Gutton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Electrometer"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Camille_Gutton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/N_ray"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Camille_Gutton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Nancy,_France"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Camille_Gutton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Legion_of_Honour"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Camille_Gutton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Louis_de_Broglie"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Camille_Gutton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/\u00c9mile_Andr\u00e9"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Camille_Gutton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Henri_Abraham"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Camille_Gutton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Postes,_t\u00e9l\u00e9graphes_et_t\u00e9l\u00e9phones_(France)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Camille_Gutton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Balthasar_van_der_Pol"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Camille_Gutton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:1872_births"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Camille_Gutton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:1963_deaths"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Camille_Gutton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:French_physicists"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Camille_Gutton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/William_Eccles_(physicist)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Camille_Gutton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Agr\u00e9gation"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Camille_Gutton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Barkhausen\u2013Kurz_tube"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Camille_Gutton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Nobel_Prize_in_Physics"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Camille_Gutton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Henri_Poincar\u00e9"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Camille_Gutton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Hermann_von_Helmholtz"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Camille_Gutton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Ionization"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Camille_Gutton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Ionosphere"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Camille_Gutton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/James_Clerk_Maxwell"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Camille_Gutton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Triode"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Camille_Gutton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:Members_of_the_French_Academy_of_Sciences"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Camille_Gutton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:\u00c9cole_Normale_Sup\u00e9rieure_alumni"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Camille_Gutton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Relative_permittivity"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Camille_Gutton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/French_Academy_of_Sciences"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Camille_Gutton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Capacitance"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Camille_Gutton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/World_War_I"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Camille_Gutton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Hertzian_wave"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Camille_Gutton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Soci\u00e9t\u00e9_fran\u00e7aise_radio-\u00e9lectrique"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Camille_Gutton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/\u00c9cole_normale_sup\u00e9rieure"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Camille_Gutton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Arlington,_Virginia"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Camille_Gutton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Gustav_Ferri\u00e9"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Camille_Gutton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/\u00c9cole_sup\u00e9rieure_d'\u00e9lectricit\u00e9"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Camille_Gutton"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/\u00c9cole_sup\u00e9rieure_de_l'a\u00e9ronautique"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carlton_Bolling_College"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:Schools_in_Bradford"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carlton_Bolling_College"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Puppeteer"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carlton_Bolling_College"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Bolling_Hall,_Bradford"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carlton_Bolling_College"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Bradford"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carlton_Bolling_College"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Brenda_Jagger"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carlton_Bolling_College"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:Academies_in_the_City_of_Bradford"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carlton_Bolling_College"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:Secondary_schools_in_the_City_of_Bradford"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carlton_Bolling_College"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/C\u00e9sar_Franck"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carlton_Bolling_College"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/University_of_Chicago"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carlton_Bolling_College"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Dunbartonshire_(UK_Parliament_constituency)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carlton_Bolling_College"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/East_Bowling"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carlton_Bolling_College"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Underclass"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carlton_Bolling_College"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Student_exchange"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carlton_Bolling_College"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/12th_Regiment_Royal_Artillery"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carlton_Bolling_College"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/City_of_Bradford"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carlton_Bolling_College"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/City_of_Bradford_Metropolitan_District_Council"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carlton_Bolling_College"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Colin_Baron"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carlton_Bolling_College"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Colin_Brazier"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carlton_Bolling_College"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Edward_Victor_Appleton"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carlton_Bolling_College"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/England_cricket_team"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carlton_Bolling_College"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Enrico_Fermi_Institute"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carlton_Bolling_College"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Ministry_of_Defence_(United_Kingdom)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carlton_Bolling_College"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/M\u00f6nchengladbach"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carlton_Bolling_College"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Batley_and_Morley_(UK_Parliament_constituency)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carlton_Bolling_College"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Len_Shackleton"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carlton_Bolling_College"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Choir"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carlton_Bolling_College"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Steve_Rhodes"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carlton_Bolling_College"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Cloth_merchant"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carlton_Bolling_College"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Community_school_(England_and_Wales)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carlton_Bolling_College"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Day_care"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carlton_Bolling_College"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Michelin_Guide"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carlton_Bolling_College"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Balmoral_Hotel"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carlton_Bolling_College"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:Educational_institutions_established_in_1977"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carlton_Bolling_College"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Tony_Wright_(musician)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carlton_Bolling_College"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Twin_cities"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carlton_Bolling_College"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/West_Yorkshire"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carlton_Bolling_College"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Willie_Brooke"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carlton_Bolling_College"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Adult_education"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carlton_Bolling_College"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Albert_Crewe"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carlton_Bolling_College"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Bedford_College_(London)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carlton_Bolling_College"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Grammar_school"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carlton_Bolling_College"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Sir_Israel_Gollancz_Prize"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carlton_Bolling_College"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Harris_Academy_St_John's_Wood"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carlton_Bolling_College"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Harry_Corbett"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carlton_Bolling_College"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Jingle_Bells"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carlton_Bolling_College"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Argonne_National_Laboratory"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carlton_Bolling_College"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/A658_road"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carlton_Bolling_College"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Academy_(English_school)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carlton_Bolling_College"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Category:1977_establishments_in_England"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carlton_Bolling_College"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/King's_College_London"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carlton_Bolling_College"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Terrorvision"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carlton_Bolling_College"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Trojan_Horse_scandal"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carlton_Bolling_College"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Martin_Bashir"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carlton_Bolling_College"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/South_Pacific_(musical)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carlton_Bolling_College"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/St_George's_Hall,_Bradford"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carlton_Bolling_College"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Festival_of_Remembrance"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carlton_Bolling_College"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Institute_of_Physics"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carlton_Bolling_College"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Ofcom"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carlton_Bolling_College"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/ontology/wikiPageWikiLink"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Rapier_(missile)"
+        }
+    }
+]

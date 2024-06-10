@@ -1,0 +1,1402 @@
+[
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Cadillac_Anderson"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Caleb_Mills_(basketball)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Cameron_Burrell"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Cameron_Malveaux"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carin_Cone"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carl_Cunningham"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carl_Herrera"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carl_Hilton"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carl_Lewis"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carli_Mosier"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carlisle_Floyd"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carll_Goodpasture"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carol_Alvarado"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carol_E._Dinkins"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carol_Lewis"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Case_Keenum"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Priscilla_Hamby"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Priscilla_Shirer"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Quentin_Grimes"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Robert_Newhouse"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Robert_Phillips_(poet)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Robert_R._Casey"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Robert_Talton"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Robert_W._Lawless"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Robert_Wuhl"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Rocket_Wheeler"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Rocky_Schwartz"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Rocky_Thompson_(golfer)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Rod_Canion"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Roland_Glowinski"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Rolando_Ferreira"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Ronald_M._Sega"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Rose_Magers"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Roy_Hofheinz"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Royce_Berry"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Royce_West"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Ruby_Kless_Sondock"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Rub\u00e9n_Mart\u00ednez_(writer)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Rudy_Davalos"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Sam_Mack"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Sammy_Brown"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Sancho_Lyttle"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Sandra_Glover"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Sarah_Borwell"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Saul_Friedman"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Scott_Kellar"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Scott_Sheldon"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Elena_Nikolaidi"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Mo_Mitchell_(coach)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Susanne_Mentzer"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Pat_Lykos"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Justin_Whitlock_Dart,_Jr."
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Shelly_Berg"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Barrick_Nealy"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Beau_Bell"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Ben_Fricke"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Ben_Hurt"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Ben_Weber_(baseball)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Benjamin_Kamins"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Benny_Anders"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Beverly_Woolley"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Big_Moe"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Bill_Callegari"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Bill_Carr_(American_football)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Bill_Henry_(baseball,_born_1927)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Bill_Hicks"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Bill_Meek"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Bill_Rogers_(golfer)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Bill_Worrell"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Bill_Yeoman"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Billy_Milner"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Billy_Ray_Brown"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Blaine_McCallister"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Bo_Burris"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Bo_Outlaw"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Bobby_Clatterbuck"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Bobby_Wadkins"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Bonnie_J._Dunbar"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Brad_Fabel"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Brad_Lincoln"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Brad_Rushing"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Bradley_Dale_Peveto"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Brandon_Hartson"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Brandon_Middleton"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Brandon_Wilson_(American_football)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Brent_Spiner"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Bren\u00e9_Brown"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Brett_Cullen"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Brian_D._Montgomery"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Brian_Johnson_(American_football_coach)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Brian_Stewart_(American_football)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Brianne_Bethel"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Brick_Haley"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Dave_Aranda"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Dave_Marr"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Dave_Rose_(basketball)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/David_Cobb_(activist)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/David_Gibbs_(American_football)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/David_Heitmeier"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Houston_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/David_Hunter_(American_football)"
+        }
+    }
+]
