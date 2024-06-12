@@ -32,7 +32,43 @@ This project focused on analyzing Nobel laureates in Physics and Chemistry throu
 
 After installing dependency packages. Run all cells in `Notebook.ipynb`
 
-1.**Data Collection and Analysis**
-```shell
+**Part 1 - Comparing and Clustering Texts**
 
+1.1 **Data Collection**
+```shell
+ Data_Collection.ipynb
+```
+
+1.2 **Data Analysis**
+```shell
+ Graph_Data_Analysis.ipynb
+```
+```shell
+ Textual_Data_Analysis.ipynb
+```
+
+1.3 **Clustering**
+```shell
+ Clustering_1. Biography-based_Clusters.ipynb
+```
+```shell
+ Clustering_Knowlwdge_Graph.ipynb
+```
+
+**Part 2 - SpaCy and Stanza performance for NER**
+
+2.1 **Named Entity Recognition**
+```shell
+ NER_Spacy.ipynb
+```
+```shell
+ NER_Stanza.ipynb
+```
+
+2.2 **NER - analysis by entity type**
+```shell
+ NER_Comparison.ipynb
+```
+```shell
+ NER_Process_DFs.ipynb
 ```
