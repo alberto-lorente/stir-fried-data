@@ -75,4 +75,4 @@ After installing dependency packages. Run all cells in `Notebook.ipynb`
 
 ## Results
 
-Detailed results and comprehensive analyses will be presented during our project presentation, , scheduled for June 21st, 2024.
+Detailed results and comprehensive analyses will be presented during our project presentation, scheduled for June 21st, 2024.
