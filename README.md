@@ -28,4 +28,11 @@ This project focused on analyzing Nobel laureates in Physics and Chemistry throu
  pip install -r requirements.txt
 ```
 
+## Usage
+
 After installing dependency packages. Run all cells in `Notebook.ipynb`
+
+1.**Data Collection and Analysis**
+```shell
+
+```
