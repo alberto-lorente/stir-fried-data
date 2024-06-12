@@ -12,16 +12,15 @@ Prof. Claire Gardent
 MSc Natural Language Processing,
 Université de Lorraine
 
-## Categories
+## Project Overview
 
-1. Noble laureates in Physics
-2. Noble laureates in Chemistry
+This project focused on analyzing Nobel laureates in Physics and Chemistry through clustering of biographical texts and knowledge graph data, including a comparison of linguistic processing libraries for named entity recognition (NER).
 
-## This project falls into two main parts
+## Two Main Parts
 
-1. Carries out clustering using two different types of input formats. The emphasis in that part is on data collection, statistics, visualisation, linguistic processing and clustering. You will collect wikipedia biographies as well as knowledge graph facts for two categories of people, compute statistics about the two sets
-of persons. You will then produce visualisation of their content and train/test a clustering model which should automatically segment the data you collected.
-2. Compares the behaviour of two linguistic processing libraries (e.g., Stanza and Spacy) on the task of named entity recognition (NER) on the same set of texts. Different libraries will yield different results and the goal of this part of the project is to analyse these differences. You will also develop methods for comparing the Named Entities found in a text with the RDF entities present in the corresponding graph.
+1.**Text and Knowledge Graph Analysis:** We collect and cluster Wikipedia biographies and corresponding knowledge graph data of Nobel laureates in Physics and Chemistry. This involves data collection, statistics, visualization, linguistic processing, and clustering to segment and analyze the collected data.
+
+2.**NER Comparison:** We compare the behaviour of two linguistic processing libraries (e.g., Stanza and Spacy) on NER on the same set of texts and develop methods to compare the Named Entities found in the texts with RDF entities  present in the corresponding graphs.
 
 ## Instructions
 
@@ -29,4 +28,51 @@ of persons. You will then produce visualisation of their content and train/test 
  pip install -r requirements.txt
 ```
 
+## Usage
+
 After installing dependency packages. Run all cells in `Notebook.ipynb`
+
+**Part 1 - Comparing and Clustering Texts**
+
+1.1 **Data Collection**
+```shell
+ Data_Collection.ipynb
+```
+
+1.2 **Data Analysis**
+```shell
+ Graph_Data_Analysis.ipynb
+```
+```shell
+ Textual_Data_Analysis.ipynb
+```
+
+1.3 **Clustering**
+```shell
+ Clustering_1. Biography-based_Clusters.ipynb
+```
+```shell
+ Clustering_Knowlwdge_Graph.ipynb
+```
+
+**Part 2 - SpaCy and Stanza performance for NER**
+
+2.1 **Named Entity Recognition**
+```shell
+ NER_Spacy.ipynb
+```
+```shell
+ NER_Stanza.ipynb
+```
+
+2.2 **NER - analysis by entity type**
+```shell
+ NER_Comparison.ipynb
+```
+```shell
+ NER_Process_DFs.ipynb
+```
+
+## Results
+
+Detailed results and comprehensive analyses will be presented during our project presentation, scheduled for June 21st, 2024.
