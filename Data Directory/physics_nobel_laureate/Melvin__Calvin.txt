@@ -1,0 +1,80 @@
+year: 1961
+name: Melvin Calvin
+country: United States
+category: Chemistry
+biography: Melvin Ellis Calvin (April 8, 1911 – January 8, 1997) was an American biochemist known for discovering the Calvin cycle along with Andrew Benson and James Bassham, for which he was awarded the 1961 Nobel Prize in Chemistry. He spent most of his five-decade career at the University of California, Berkeley.
+
+
+== Early life and education ==
+Melvin Calvin was born in St. Paul, Minnesota, the son of Elias Calvin and Rose Herwitz, Jewish immigrants from the Russian Empire (now known as Lithuania and Georgia).
+At an early age, Melvin Calvin’s family moved to Detroit, MI where his parents ran a grocery store to earn their living. Melvin Calvin was often found exploring his curiosity by looking through all of the products that made up their shelves. Something he quickly recognized is the importance of chemistry to everyday products and our daily lives.
+After he graduated from Central High School in 1928, he went on to study at Michigan College of Mining and Technology (now known as Michigan Technological University) where he received the school’s first Bachelors of Science in Chemistry. He went on to earn his Ph.D. at the University of Minnesota in 1935. While under the mentorship of George Glocker, he studied and wrote his thesis on the electron affinity of halogens. He was invited to join the lab of Michael Polanyi as a Post Doctoral student at the University of Manchester. The two years he spent at the lab were focused on studying the structure and behavior of organic molecules. In 1942, He married Marie Genevieve Jemtegaard, and they had three daughters, Elin, Sowie, and Karole, and a son, Noel.
+
+
+== Career ==
+On a visit to the University of Manchester, Joel Hildebrand, the director of UC Radiation Laboratory, invited Calvin to join the faculty at the University of California, Berkeley. This made him the first non-Berkeley graduate hired by the chemistry department in +25 years. He invited Calvin to push forward in radioactive carbon research because "now was the time". Calvin's original research at UC Berkeley was based on the discoveries of Martin Kamen and Sam Ruben in long-lived radioactive carbon-14 in 1940.
+In 1947, he was promoted to a Professor of Chemistry and the director of the Bio-Organic Chemistry group in the Lawrence Radiation Laboratory. The team he formed included: Andrew Benson, James A. Bassham, and several others. Andrew Benson was tasked with setting up the photosynthesis laboratory. The purpose of this lab was to discover the path of carbon fixation through the process of photosynthesis. The greatest impact of the research was discovering the way that light energy converts into chemical energy. Using the carbon-14 isotope as a tracer, Calvin, Andrew Benson and James Bassham mapped the complete route that carbon travels through a plant during photosynthesis, starting from its absorption as atmospheric carbon dioxide to its conversion into carbohydrates and other organic compounds. The process is part of the photosynthesis cycle. It was given the name the Calvin–Benson–Bassham Cycle, named for the work of Melvin Calvin, Andrew Benson, and James Bassham. There were many people who contributed to this discovery but ultimately Melvin Calvin led the charge (see below).
+In 1963, Calvin was given the additional title of Professor of Molecular Biology. He was founder and Director of the Laboratory of Chemical Biodynamics, known as the “Roundhouse”, and simultaneously Associate Director of Berkeley Radiation Laboratory, where he conducted much of his research until his retirement in 1980. In his final years of active research, he studied the use of oil-producing plants as renewable sources of energy. He also spent many years testing the chemical evolution of life and wrote a book on the subject that was published in 1969.
+
+
+== The foundation of the Melvin Calvin laboratory ==
+The circular laboratory known as the “Roundhouse”  was designed to facilitate collaboration between students and visiting scientists in Calvin’s lab. It was created as Calvin had an insatiable curiosity that drove him to become well versed in many fields and recognize the benefits of cross disciplinary collaboration. Open scientific discussion was a large part of his students' everyday lives and he wanted to create a community space where all kinds of minds and knowledge were brought together. In order to help facilitate this in the Roundhouse, he brought in post doctoral students and guest scientists from all around the world.
+The community Calvin created within the roundhouse was one that students and staff members felt they could truly reach their potential in. Calvin became known for his management skills which many creative scientific outlets are modeled after today. He was known as Mr. Photosynthesis but that does not even begin to describe how his organizational and management skills revolutionized the scientific community across all fronts.
+
+
+== Discovery of the Calvin cycle ==
+The discovery of the Calvin cycle would start by building on the research done by Sam Ruben and Martin Kamen after their work on the carbon-14 isotope came to an end after Rebun’s accidental death in the laboratory and Kamen found himself in trouble over security breaches with the FBI and Department of State. Despite this Ernest Lawrence, the Radiation Laboratory director, was proud of the work they had done and wanted to see the research furthered so he along with Wendell Latimer, the Dean of Chemistry and Chemical Engineering, recruited Calvin in 1945.
+The lab's original focus was on the applications of Carbon-14 in medicine and synthesis of radio-labeled amino acids and biological metabolites for medical research. Calvin began to establish the lab by recruiting strong chemists in labs across the country. He then recruited Andrew Benson, who had worked with Ruben and Kamen previously on photosynthesis and C-14, to head that aspect of the lab.
+The predominating theory regarding the production of sugars and other reduced carbon compounds was that they were considered to be a “light” reaction. This theory had yet to be disproven. Benson began his investigation by continuing his previous work with the isolation of the product of dark CO2 fixation and would then crystalize the radioactive succinic acid. This paired with exposing algae to light without CO2 and then immediately transferring it to a dark flask that contained CO2 and observing that the radioactive sucrose was still formed at the same rate as when photosynthesis was allowed to be carried out in pure light gave definitive evidence that there was a non-photochemical reduction of CO2.
+There was an issue though, they now needed to determine the first product of the fixation of CO2. In order to do this, they began utilizing paper chromatographic techniques that were pioneered by W.A Stepka. This allowed them to determine that the first product of CO2 fixation was 3-Carbon phosphoglyceric acid (PGA). A long known product of glucose fermentation per the reaction outlined years earlier by Ruben and Kamen.
+After this discovery, Calvin’s competing lab at the University of Chicago was unable to confirm the discovery and thus created a strong attack on Calvin’s literature. This led to a symposium sponsored by the American Association for the Advancement of Science to determine which lab was correct. Though met with resistance at the conference Calvin and Benson were able to convince the audience of their position and the attack was dismissed.
+After this first identification the remaining members of the glycolytic sequence save for two were able to be identified based on their chemical behavior. The two unknown components were sugars. Benson, after noticing their separation on the paper chromatograms and examining their reactivities, realized they were ketoses. Thanks to the collaboration of James A. Bassham the compounds were able to be subjected to periodate degradation. The identification of 14% activity in the carbonyl carbon in one of the sugars made Bassham turn his attention to seven-carbon sugars. Despite several more tests though, Bassham was unable to determine the identities of these two sugars.
+Further experimentation showed that through restricting the uptake of CO2 the level of ribulose bisphosphate could be increased. This was an indication that it was the acceptor molecule for CO2. Though the mechanism for this was not immediately obvious, Calvin was able to determine one later called the novel carboxylation mechanism which would lead to the series completion in 1958.
+
+
+== Public service ==
+Throughout his life, Calvin acted as a public servant in many different capacities. He served as president of the American Chemical Society, the American Society of Plant Physiology, and the Pacific Division of the American Association for the Advancement of Science. Along with all of this he also served as chairman of the Committee on Science and Public Policy for the National Academy of Sciences.
+One major contribution he had as a public servant was his work with NASA. In collaboration with NASA, he assisted in the creation of plans to protect the Moon against biological contamination from the Earth and the Earth from contamination from the Moon during the Apollo missions. As well as, helping strategies on how to best bring back lunar samples and how to search for biological life on other planets.
+Along with these servant capacities he also worked as a public servant for the U.S government. He served as a member of the President’s Science Advisory Committee from 1963 to 1966 and served on the top advisory body of the Department of Energy, the Energy Research Advisory Board.
+Finally, he served on many international committees and for many international organizations including the Joint Commission on Applied Radioactivity of the International Union of Pure and Applied Chemistry, the U.S. Committee of the International Union of Biochemistry, and the Commission on Molecular Biophysics of the International Organization for Pure and Applied Biophysics
+
+
+== Controversy ==
+In his 2011 television history of Botany for the BBC, Timothy Walker, Director of the University of Oxford Botanic Garden, criticised Calvin's treatment of Andrew Benson, claiming that Calvin had got the credit for Benson's work after firing him, and had failed to mention Benson's role when writing his autobiography decades later. Benson himself has also mentioned being fired by Calvin, and has complained about not being mentioned in his autobiography.
+
+
+== Honours and legacy ==
+1954 - Elected to the United States National Academy of Sciences
+1955 - Awarded the Centenary Prize
+1958 - Elected a foreign member of the Royal Netherlands Academy of Arts and Sciences
+1958 - Elected to the American Academy of Arts and Sciences
+1959 - Elected a Member of the German Academy of Sciences Leopoldina
+1960 - Elected to the American Philosophical Society
+1961 - Melvin Calvin received the Nobel Prize in Chemistry “for his research on the carbon dioxide assimilation in plants”
+1964 - Awarded the Davy Medal of the Royal Society
+1971 - Honorary Doctor of Laws (LL.D.) degree from Whittier College
+1978 - Priestley medal of the American Chemical Society
+Calvin was featured on the 2011 volume of the American Scientists collection of US postage stamps, along with Asa Gray, Maria Goeppert-Mayer, and Severo Ochoa. This was the third volume in the series, the first two having been released in 2005 and 2008.
+Calvin was award 13 other honorary degrees.
+
+
+== Publications ==
+
+
+== See also ==
+List of Jewish Nobel laureates
+
+
+== References ==
+
+
+== External links ==
+
+Melvin Calvin on Nobelprize.org  including the Nobel Lecture, December 11, 1961 The Path of Carbon in Photosynthesis
+Nobel speech and biographmems/mcalvin.html Tribute by Glenn Seaborg and Andrew Benson
+Research on the carbon dioxide assimilation in plants at the Wayback Machine (archived February 22, 2007)
+Biographical memoir by Glenn Seaborg and Andrew Benson
+U.S. Patent 4427511 Melvin Calvin – Photo-induced electron transfer method
+Encyclopædia Britannica article
+USPS News Release: Celebrating American Scientists Press release for the new Forever Stamp designs featuring Melvin Calvin.
+National Academy of Sciences Biographical Memoir

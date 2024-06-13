@@ -1,0 +1,1402 @@
+[
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Camille_Jordan"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Carlos_Ghosn"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Caroline_Aigle"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Robert_Nivelle"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Roger_B\u00e9teille"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Roger_Guesnerie"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Rose_Dieng-Kuntz"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Menachem_Mendel_Schneerson"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Beno\u00eet_Mandelbrot"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Bernard_Arnault"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Bertrand_Meyer"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Denis_Ranque"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Alfred_Potier"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Joseph_Joffre"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Joseph_Liouville"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Jules_Brunet"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Patrick_Drahi"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Patrick_Kron"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Patrick_Ky"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Paul_Bert"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Paul_Hermelin"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Paul_L\u00e9vy_(mathematician)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Urbain_Le_Verrier"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Val\u00e9ry_Giscard_d'Estaing"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Jacques_Rueff"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Maurice_Allais"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Louis_Pouzin"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Louis_Vicat"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Pierre_Henri_Hugoniot"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Louis-Emile_Bertin"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Christophe_Breuil"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Claude-Louis_Navier"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Claude_Burdin"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Claude_B\u00e9b\u00e9ar"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Alexis_Bonnet"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Alexis_Th\u00e9r\u00e8se_Petit"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Emile-Ren\u00e9_Lemonnier"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Emmanuel_Cand\u00e8s"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Fran\u00e7ois_Arago"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Fr\u00e9d\u00e9ric_Oud\u00e9a"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Fulgence_Bienven\u00fce"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Gabriel_Lam\u00e9"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Georges_Besse"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Georges_Charpy"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Thierry_Desmarest"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Andr\u00e9-Louis_Cholesky"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Andr\u00e9_Citro\u00ebn"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Anne-Marie_Lagrange"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Bernard_Salani\u00e9"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Louis_Leprince-Ringuet"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Louis_Pailhas"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/L\u00e9on_Charles_Th\u00e9venin"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Sim\u00e9on_Denis_Poisson"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/St\u00e9phane_Mallat"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Yves_Br\u00e9chet"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Yves_Lambert"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/\u00c9douard_Br\u00e9zin"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/\u00c9mile_Clapeyron"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/\u00c9mile_Dorand"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/\u00c9mile_Lemoine"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/\u00c9tienne-Louis_Malus"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Fran\u00e7ois_Hussenot"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Henri_Honor\u00e9_d'Estienne_d'Orves"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Roger_Balian"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Marc_Chervel"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Marc_Fleury"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Auguste_Bravais"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Auguste_Comte"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Bruno_M\u00e9gret"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Ag\u00e9nor_Az\u00e9ma_de_Montgravier"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Tidjane_Thiam"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Driss_Benhima"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Abdourahmane_Ciss\u00e9"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Adh\u00e9mar_Jean_Claude_Barr\u00e9_de_Saint-Venant"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Albert_Caquot"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Albert_Jacquard"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Albert_Lebrun"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Alfred-Marie_Li\u00e9nard"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Alfred_Dreyfus"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Ambroise_Roux"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Edmond_Malinvaud"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Eug\u00e8ne_Freyssinet"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Fabienne_Keller"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Ferdinand_Foch"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Francis_Mer"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Nicolas_L\u00e9onard_Sadi_Carnot"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Farid_Zizi"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Guy_du_Merle"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/G\u00e9rard_Berry"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/G\u00e9rard_Mestrallet"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/G\u00e9rard_Rozenknop"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Henri-Alexandre_Deslandres"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Henri_Becquerel"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Henri_Brocard"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Henri_Poincar\u00e9"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Henri_Victor_Regnault"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Henry_Darcy"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Ir\u00e9n\u00e9e-Jules_Bienaym\u00e9"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Jacques_Attali"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_\u00c9cole_Polytechnique_alumni"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Jacques_Babinet"
+        }
+    }
+]

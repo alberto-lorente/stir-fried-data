@@ -1,0 +1,1402 @@
+[
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Caspar_Wistar_(physician)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Benjamin_Bell"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Robert_Liston"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Robert_McIntyre_(politician)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Robert_Muir_(pathologist)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Robert_Sibbald"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Samuel_Alexander_Kinnier_Wilson"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Samuel_Bard_(physician)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Samuel_L._Mitchill"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Samuel_Manuwa"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Samuel_Seabury_(bishop)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Samuel_Smiles"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Henry_Latimer_(senator)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/William_Crawford_(Pennsylvania)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Robert_Marcus_Gunn"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Benjamin_Rush"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Benjamin_Waterhouse"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Bernard_Friedman"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Bhagvat_Singh"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/David_Bruce_(microbiologist)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/David_Ferrier"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/David_Monro"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/David_Wilkie_(surgeon)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/John_Moultrie_(politician)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/John_Murray_Carnochan"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/John_Rae_(explorer)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/John_Savill"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/John_Scott_Haldane"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/John_Struthers_(anatomist)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Joseph_Bell"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Joseph_Black"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Patrick_Heron_Watson"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Peter_C._Doherty"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Peter_Mark_Roget"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Richard_Bright_(physician)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Richard_Owen"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Robert_Brown_(botanist,_born_1773)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Robert_Christison"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Robert_Edwards_(physiologist)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Robert_Lim"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Charles_Hastings_(English_physician)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Valent\u00edn_Fuster"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Vincent_du_Vigneaud"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/David_Boswell_Reid"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/David_Maclagan"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/James_Rutherford_Morison"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/James_Spence_(surgeon)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/James_Syme"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/John_Anderson_(zoologist)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Alexander_Monro_(secundus)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/William_John_Adie"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/William_Jardine_(merchant)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Obadiah_Johnson"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Robert_Edmond_Grant"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/William_Cleaver_Woods"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Matilda_J._Clerk"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Matthew_Kaufman"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/May-Britt_Moser"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/George_Barger"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/George_Beatson"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/George_Birkbeck"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/George_Ernest_Morrison"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Colin_S._Valentine"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Alexander_Biggam"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Alexander_Burns_Wallace"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Alexander_Wood_(physician)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Edvard_Moser"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Edward_Albert_Sharpey-Schafer"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Edward_Henry_Sieveking"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Edwin_Southern"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Ekkehard_von_Kuenssberg"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Emmanuel_Evans-Anfom"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Frederick_Montizambert"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/George_Logan_(Pennsylvania_politician)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/George_Newman_(doctor)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Gertrude_Herzfeld"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Gordon_Wishart"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Mungo_Park_(explorer)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Thomas_Addison"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Thomas_Brown_(philosopher)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Thomas_Charles_Hope"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Thomas_Hodgkin"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Thomas_Peter_Anderson_Stuart"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Thomas_Richard_Fraser"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Thomas_Tudor_Tucker"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Thomas_Wharton_Jones"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Thomas_Young_(scientist)"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Martin_Barry"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Thomas_Annandale"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Andrew_Balfour"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Andrew_Duncan,_the_elder"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Andrew_Duncan,_the_younger"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Andrew_Fernando_Holmes"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Lilian_Lindsay"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Lim_Boon_Keng"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Lim_Chong_Eu"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Mabel_L._Ramsay"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Sir_Robert_Hutchison,_1st_Baronet"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Stanley_Davidson"
+        }
+    },
+    {
+        "subject": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/List_of_University_of_Edinburgh_medical_people"
+        },
+        "predicate": {
+            "type": "uri",
+            "value": "http://dbpedia.org/property/name"
+        },
+        "object": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Francis_Badgley_(doctor)"
+        }
+    }
+]
