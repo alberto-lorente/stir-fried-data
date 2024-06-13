@@ -1,7 +1,7 @@
 
-Data Directory/df_entities_spacy.csv
-Data Directory/df_entities_spacy_processed.csv
-Data Directory/df_entities_stanza.csv
-Data Directory/df_entities_stanza_processed.csv
-Data Directory/physics_and_chemistry_nobel_laureate.csv
-Data Directory/results_ner_comparison.csv
+# Data Directory/df_entities_spacy.csv
+# Data Directory/df_entities_spacy_processed.csv
+# Data Directory/df_entities_stanza.csv
+# Data Directory/df_entities_stanza_processed.csv
+# Data Directory/physics_and_chemistry_nobel_laureate.csv
+# Data Directory/results_ner_comparison.csv
