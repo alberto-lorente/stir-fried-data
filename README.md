@@ -58,13 +58,18 @@ Graphs
 
 1.3 **Clustering**
 
-Train clustering modelS with using KMeans to predict two distinct clusters, including:
+Text:
 
-* Text: Each person's collected biography text.
-* Knowledge Graph: Each person's collected facts, linearise as a single string for processing.
+* Clustering is performed on the textual data of each laureate’s biography.
+* Apply KMeans clustering to form two clusters based on the analysis of the biographical text.
+* Evaluate the clusters by comparing them against ground truth and calculating both supervised and unsupervised metrics.
 
-For both data inputs, conduct a comparative analysis by calculating various supervised and unsupervised metrics, along with visualisations to illustrate the differences between the clusters formed from textual and knowledge graph. 
+Graph:
 
+* Fetch and retrieve the knowledge graph for each laureate from JSON files using the laureate's name.
+* Extract the literal values from the URLs in the knowledge graph, focusing on the last part of each URL which corresponds to the literal value of the object.
+* Compaire the resulting clusters to the ground truth.
+  
 **Part 2 - SpaCy and Stanza performance for NER**
 
 2.1 **Named Entity Recognition**
