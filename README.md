@@ -48,8 +48,7 @@ Text
 
 * 50 most frequent words and word cloud for each category (Text).
 * Min/max/avg number of sentences per category together with the corresponding histograms and box plots.
-* Total number of bi-gram occurrences per category. Min/max/avg
-number of bi-gram occurrences per sentence per category.
+* Total number of bi-gram occurrences per category. Min/max/avg number of bi-gram occurrences per sentence per category.
 
 Graphs
 
@@ -58,7 +57,7 @@ Graphs
 
 1.3 **Clustering**
 
-Train a clustering model with using KMeans to predict two distinct clusters, including:
+Train clustering modelS with using KMeans to predict two distinct clusters, including:
 
 * Text: Each person's collected biography text.
 * Knowledge Graph: Each person's collected facts, linearise as a single string for processing.
@@ -91,4 +90,4 @@ Check biographies for the following:
  
 ## Results
 
-Detailed results and comprehensive analyses will be presented during our project presentation, scheduled for June 21st, 2024.
+
