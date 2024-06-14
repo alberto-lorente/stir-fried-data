@@ -69,11 +69,26 @@ For both data inputs, conduct a comparative analysis by calculating various supe
 
 2.1 **Named Entity Recognition**
 
-
+* Extract Named Entities: Use Stanza and Spacy to process each biography and retrieve named entities.
+* Store Results: Organize the extracted data into Pandas dataframes or JSON files for easy access and comparison.
+* Statistics: Calculate avg, min, and max numbers of named entities and words per entity for each category and library.
+* Visual Comparisons: Create visualizations to compare these statistics across categories and libraries, highlighting performance differences.
 
 2.2 **NER - analysis by entity type**
 
+Check biographies for the following:
 
+* Count spans with full overlap where both packages predict the same named entity.
+* Count spans with partial overlap in predictions.
+* Identify spans predicted as an entity by one tool but not by the other.
+* Check agreement on the entity type (e.g., Person, Location, Organization) for spans with any level of overlap.
+* Use visualization to compare the frequency and agreement of NER between Stanza and Spacy, segmented by entity type and document category.
+
+2.3 **NER - nverification against knowledge graph**
+
+* Determine how many predicted NEs can be found in the KG for each person, using regular expressions to account for potential mismatches between the NE spans in text and KG entity labels.
+* Calculate the ratio of accurately matched NEs to total NEs predicted by each package for each person, providing a measure of verification confidence.
+ 
 ## Results
 
 Detailed results and comprehensive analyses will be presented during our project presentation, scheduled for June 21st, 2024.
