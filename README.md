@@ -74,11 +74,12 @@ Graphs:
 
 2.1 **Named Entity Recognition**
 
-* Extract Named Entities: Use Stanza and Spacy to process each biography and retrieve named entities.
-* Store Results: Organize the extracted data into Pandas dataframes or JSON files for easy access and comparison.
-* Statistics: Calculate avg, min, and max numbers of named entities and words per entity for each category and library.
-* Visual Comparisons: Create visualizations to compare these statistics across categories and libraries, highlighting performance differences.
-
+* Use both SpaCy and Stanza to detect and extract named entities from each biography.
+* For each entity, save the text, number of words, and start and end positions in a DataFrame. 
+* Extract entity data into DataFrames.
+* Compute average, minimum, and maximum numbers of named entities and words per entity.
+* Create visualizations that highlight differences and similarities in entity recognition performance.
+  
 2.2 **NER - analysis by entity type**
 
 Check biographies for the following:
