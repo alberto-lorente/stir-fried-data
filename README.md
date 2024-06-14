@@ -20,7 +20,7 @@ This project focused on analyzing Nobel laureates in Physics and Chemistry throu
 
 1.**Text and Knowledge Graph Analysis:** We collect and cluster Wikipedia biographies and corresponding knowledge graph data of Nobel laureates in Physics and Chemistry. This involves data collection, statistics, visualization, linguistic processing, and clustering to segment and analyze the collected data.
 
-2.**NER Comparison:** We compare the behaviour of two linguistic processing libraries (e.g., Stanza and Spacy) on NER on the same set of texts and develop methods to compare the Named Entities found in the texts with RDF entities  present in the corresponding graphs.
+2.**NER Comparison:** We compare the behaviour of two linguistic processing libraries (e.g., Stanza and Spacy) on NER on the same set of texts and develop methods to compare the Named Entities found in the texts with RDF entities present in the corresponding graphs.
 
 ## Instructions
 
@@ -60,7 +60,7 @@ Graphs
 
 Train a clustering model with using KMeans to predict two distinct clusters, including:
 
-* Each person's collected biography text.
+* Text: Each person's collected biography text.
 * Knowledge Graph: Each person's collected facts, linearise as a single string for processing.
 
 For both data inputs, conduct a comparative analysis by calculating various supervised and unsupervised metrics, along with visualisations to illustrate the differences between the clusters formed from textual and knowledge graph. 
@@ -68,20 +68,11 @@ For both data inputs, conduct a comparative analysis by calculating various supe
 **Part 2 - SpaCy and Stanza performance for NER**
 
 2.1 **Named Entity Recognition**
-```shell
- NER_Spacy.ipynb
-```
-```shell
- NER_Stanza.ipynb
-```
+
+
 
 2.2 **NER - analysis by entity type**
-```shell
- NER_Comparison.ipynb
-```
-```shell
- NER_Process_DFs.ipynb
-```
+
 
 ## Results
 
