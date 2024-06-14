@@ -86,7 +86,9 @@ Check biographies for the following:
 
 2.3 **NER - Nverification against knowledge graph**
 
-
+* Determine how many predicted NEs can be found in the KG for each person, using regular expressions to account for potential mismatches between the NE spans in text and KG entity labels.
+* Calculate the ratio of accurately matched NEs to total NEs predicted by each package for each person, providing a measure of verification confidence.
+ 
 ## Results
 
 Detailed results and comprehensive analyses will be presented during our project presentation, scheduled for June 21st, 2024.
