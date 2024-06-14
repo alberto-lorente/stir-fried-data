@@ -43,14 +43,14 @@ After installing dependency packages. Run all cells in `Notebook.ipynb`
   
 1.2 **Data Analysis**
 
-Text
+Text:
 
 * Process text from each biography to remove stopwords and punctuation, then concatenate into a single string per category.
 * Analyze and visualize the 50 most frequent words with word clouds.
 * Calculate and plot the minimum, maximum, and average number of sentences and bigrams per sentence for each category.
 
 
-Graphs
+Graphs:
 
 * Aggregate all knowledge graph data into a DataFrame, setting values to represent RDF triples.
 * Conduct SPARQL queries to isolate RDF subjects and objects, excluding laureate names to prevent data bias.
@@ -64,7 +64,7 @@ Text:
 * Apply KMeans clustering to form two clusters based on the analysis of the biographical text.
 * Evaluate the clusters by comparing them against ground truth and calculating both supervised and unsupervised metrics.
 
-Graph:
+Graphs:
 
 * Fetch and retrieve the knowledge graph for each laureate from JSON files using the laureate's name.
 * Extract the literal values from the URLs in the knowledge graph, focusing on the last part of each URL which corresponds to the literal value of the object.
