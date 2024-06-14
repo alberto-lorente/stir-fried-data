@@ -76,6 +76,13 @@ For both data inputs, conduct a comparative analysis by calculating various supe
 
 2.2 **NER - analysis by entity type**
 
+Check biographies for the following:
+
+* Count spans with full overlap where both packages predict the same named entity.
+* Count spans with partial overlap in predictions.
+* Identify spans predicted as an entity by one tool but not by the other.
+* Check agreement on the entity type (e.g., Person, Location, Organization) for spans with any level of overlap.
+* Use visualization to compare the frequency and agreement of NER between Stanza and Spacy, segmented by entity type and document category.
 
 2.3 **NER - Nverification against knowledge graph**
 
