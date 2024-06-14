@@ -28,7 +28,7 @@ This project focused on analyzing Nobel laureates in Physics and Chemistry throu
  pip install -r requirements.txt
 ```
 
-## Usage
+## Usage & Result
 
 After installing dependency packages. Run all cells in `Notebook.ipynb`
 
@@ -36,10 +36,11 @@ After installing dependency packages. Run all cells in `Notebook.ipynb`
 
 1.1 **Data Collection**
 
-Extract the Wikipedia biographies and associate knowledge graph for two distinct categories:Nobel laureates in Physics & Nobel laureates in Chemistry.
-
-Organize data outputs into a pandas DataFrame to link texts with their respective categories and store each biography in individual text files. Furthermore, keep detailed knowledge graph in JSON files which can map back to each person easily.
-
+* Retrieve the first 100 biographies and corresponding knowledge graph data for Nobel laureates from Wikipedia.
+* Store biographies in individual text files and knowledge graph data in JSON files.
+* Use the `fetch_biography` function to automate biography retrieval and fallback to page_id lookup if necessary.
+* Lemmatize texts, remove stopwords and non-alphabetic characters with `clean_text_spacy`, preparing data for analysis.
+  
 1.2 **Data Analysis**
 
 Analysis the differences between the two catagoreis, including:
@@ -87,7 +88,3 @@ Check biographies for the following:
 
 * Determine how many predicted NEs can be found in the KG for each person, using regular expressions to account for potential mismatches between the NE spans in text and KG entity labels.
 * Calculate the ratio of accurately matched NEs to total NEs predicted by each package for each person, providing a measure of verification confidence.
- 
-## Results
-
-
