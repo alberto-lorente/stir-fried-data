@@ -35,9 +35,10 @@ After installing dependency packages. Run all cells in `Notebook.ipynb`
 **Part 1 - Comparing and Clustering Texts**
 
 1.1 **Data Collection**
-```shell
- Data_Collection.ipynb
-```
+
+Extract the Wikipedia biographies and associate knowledge graph for two distinct categories:Nobel laureates in Physics & Nobel laureates in Chemistry.
+
+Organize data outputs into a pandas DataFrame to link texts with their respective categories and store each biography in individual text files. Furthermore, keep detailed knowledge graph in JSON files which can map back to each person easily.
 
 1.2 **Data Analysis**
 ```shell
