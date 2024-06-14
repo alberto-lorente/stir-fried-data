@@ -41,12 +41,19 @@ Extract the Wikipedia biographies and associate knowledge graph for two distinct
 Organize data outputs into a pandas DataFrame to link texts with their respective categories and store each biography in individual text files. Furthermore, keep detailed knowledge graph in JSON files which can map back to each person easily.
 
 1.2 **Data Analysis**
-```shell
- Graph_Data_Analysis.ipynb
-```
-```shell
- Textual_Data_Analysis.ipynb
-```
+Analysis the differences between the two catagoreis, including:
+
+Text
+
+* 50 most frequent words and word cloud for each category (Text).
+* Min/max/avg number of sentences per category together with the corresponding histograms and box plots.
+* Total number of bi-gram occurrences per category. Min/max/avg
+number of bi-gram occurrences per sentence per category.
+
+Graphs
+
+* 50 most frequent properties and property cloud for each category.
+* Min/max/avg number of facts per category together. Histograms and box plots for number of facts per graph for each category.
 
 1.3 **Clustering**
 ```shell
