@@ -36,25 +36,25 @@ After installing dependency packages. Run all cells in `Notebook.ipynb`
 
 1.1 **Data Collection**
 
-* Retrieve the first 100 biographies and corresponding knowledge graph data for Nobel laureates from Wikipedia.
-* Store biographies in individual text files and knowledge graph data in JSON files.
+* Retrieve the first 100 biographies and corresponding knowledge graph for Nobel laureates from Wikipedia.
+* Store biographies in individual text files and knowledge graph in JSON files.
 * Use the `fetch_biography` function to automate biography retrieval and fallback to page_id lookup if necessary.
 * Lemmatize texts, remove stopwords and non-alphabetic characters with `clean_text_spacy`, preparing data for analysis.
   
 1.2 **Data Analysis**
 
-Analysis the differences between the two catagoreis, including:
-
 Text
 
-* 50 most frequent words and word cloud for each category (Text).
-* Min/max/avg number of sentences per category together with the corresponding histograms and box plots.
-* Total number of bi-gram occurrences per category. Min/max/avg number of bi-gram occurrences per sentence per category.
+* Process text from each biography to remove stopwords and punctuation, then concatenate into a single string per category.
+* Analyze and visualize the 50 most frequent words with word clouds.
+* Calculate and plot the minimum, maximum, and average number of sentences and bigrams per sentence for each category.
+
 
 Graphs
 
-* 50 most frequent properties and property cloud for each category.
-* Min/max/avg number of facts per category together. Histograms and box plots for number of facts per graph for each category.
+* Aggregate all knowledge graph data into a DataFrame, setting values to represent RDF triples.
+* Conduct SPARQL queries to isolate RDF subjects and objects, excluding laureate names to prevent data bias.
+* Identify the top 50 RDF properties and display them in property clouds for each category.
 
 1.3 **Clustering**
 
