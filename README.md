@@ -84,7 +84,7 @@ Check biographies for the following:
 * Check agreement on the entity type (e.g., Person, Location, Organization) for spans with any level of overlap.
 * Use visualization to compare the frequency and agreement of NER between Stanza and Spacy, segmented by entity type and document category.
 
-2.3 **NER - Nverification against knowledge graph**
+2.3 **NER - nverification against knowledge graph**
 
 * Determine how many predicted NEs can be found in the KG for each person, using regular expressions to account for potential mismatches between the NE spans in text and KG entity labels.
 * Calculate the ratio of accurately matched NEs to total NEs predicted by each package for each person, providing a measure of verification confidence.
