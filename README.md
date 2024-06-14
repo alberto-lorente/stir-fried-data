@@ -57,12 +57,13 @@ Graphs
 * Min/max/avg number of facts per category together. Histograms and box plots for number of facts per graph for each category.
 
 1.3 **Clustering**
-```shell
- Clustering_1. Biography-based_Clusters.ipynb
-```
-```shell
- Clustering_Knowlwdge_Graph.ipynb
-```
+
+Train a clustering model with using KMeans to predict two distinct clusters, including:
+
+* Each person's collected biography text.
+* Knowledge Graph: Each person's collected facts, linearise as a single string for processing.
+
+For both data inputs, conduct a comparative analysis by calculating various supervised and unsupervised metrics, along with visualisations to illustrate the differences between the clusters formed from textual and knowledge graph. 
 
 **Part 2 - SpaCy and Stanza performance for NER**
 
