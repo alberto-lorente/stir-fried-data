@@ -69,10 +69,10 @@ For both data inputs, conduct a comparative analysis by calculating various supe
 
 2.1 **Named Entity Recognition**
 
-*Extract Named Entities: Use Stanza and Spacy to process each biography and retrieve named entities.
-*Store Results: Organize the extracted data into Pandas dataframes or JSON files for easy access and comparison.
-*Statistics: Calculate avg, min, and max numbers of named entities and words per entity for each category and library.
-*Visual Comparisons: Create visualizations to compare these statistics across categories and libraries, highlighting performance differences.
+* Extract Named Entities: Use Stanza and Spacy to process each biography and retrieve named entities.
+* Store Results: Organize the extracted data into Pandas dataframes or JSON files for easy access and comparison.
+* Statistics: Calculate avg, min, and max numbers of named entities and words per entity for each category and library.
+* Visual Comparisons: Create visualizations to compare these statistics across categories and libraries, highlighting performance differences.
 
 2.2 **NER - analysis by entity type**
 
