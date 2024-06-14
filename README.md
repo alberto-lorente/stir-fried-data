@@ -41,6 +41,7 @@ Extract the Wikipedia biographies and associate knowledge graph for two distinct
 Organize data outputs into a pandas DataFrame to link texts with their respective categories and store each biography in individual text files. Furthermore, keep detailed knowledge graph in JSON files which can map back to each person easily.
 
 1.2 **Data Analysis**
+
 Analysis the differences between the two catagoreis, including:
 
 Text
