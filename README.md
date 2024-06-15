@@ -20,7 +20,7 @@ This project focused on analyzing Nobel laureates in Physics and Chemistry throu
 
 1.**Text and Knowledge Graph Analysis:** We collect and cluster Wikipedia biographies and corresponding knowledge graph data of Nobel laureates in Physics and Chemistry. This involves data collection, statistics, visualization, linguistic processing, and clustering to segment and analyze the collected data.
 
-2.**NER Comparison:** We compare the behaviour of two linguistic processing libraries (e.g., Stanza and Spacy) on NER on the same set of texts and develop methods to compare the Named Entities found in the texts with RDF entities present in the corresponding graphs.
+2.**NER Comparison:** We compare the behaviour of two linguistic processing libraries (Stanza and Spacy) on NER on the same set of texts and develop methods to compare the Named Entities found in the texts with RDF entities present in the corresponding graphs.
 
 ## Instructions
 
@@ -28,9 +28,10 @@ This project focused on analyzing Nobel laureates in Physics and Chemistry throu
  pip install -r requirements.txt
 ```
 
-## Usage
+## Organization
 
-After installing dependency packages. Run all cells in `Notebook.ipynb`
+The folders are organized as per the project description and the notebooks related to each section are found within each folder.
+The corpus collected can be found in the Data Directory folder.
 
 **Part 1 - Comparing and Clustering Texts**
 
@@ -62,7 +63,7 @@ Text:
 
 * Clustering is performed on the textual data of each laureate’s biography.
 * Apply KMeans clustering to form two clusters based on the analysis of the biographical text.
-* Evaluate the clusters by comparing them against ground truth and calculating both supervised and unsupervised metrics.
+* Evaluate the clusters by comparing them against ground truth and calculating supervised metrics.
 
 Graphs:
 
@@ -90,11 +91,11 @@ Check biographies for the following:
 * Check agreement on the entity type (e.g., Person, Location, Organization) for spans with any level of overlap.
 * Use visualization to compare the frequency and agreement of NER between Stanza and Spacy, segmented by entity type and document category.
 
-2.3 **NER - nverification against knowledge graph**
+2.3 **NER - verification against knowledge graph**
 
 * Determine how many predicted NEs can be found in the KG for each person, using regular expressions to account for potential mismatches between the NE spans in text and KG entity labels.
 * Calculate the ratio of accurately matched NEs to total NEs predicted by each package for each person, providing a measure of verification confidence.
 
 ## Result
 
-Detailed results and comprehensive analyses will be presented during our presentation, scheduled for June 21st, 2024.
+These results and comprehensive analyses will be presented during our presentation, scheduled for June 21st, 2024.
