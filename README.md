@@ -24,6 +24,8 @@ This project focused on analyzing Nobel laureates in Physics and Chemistry throu
 
 ## Instructions
 
+Requires python release > 3.10.
+
 ```shell
  pip install -r requirements.txt
 ```
